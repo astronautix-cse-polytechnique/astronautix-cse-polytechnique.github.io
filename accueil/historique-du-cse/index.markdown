@@ -1,8 +1,8 @@
 ---
 author: xcubesat
-comments: false
+comments: true
 date: 2014-01-21 11:11:28+00:00
-layout: page
+layout: article
 slug: historique-du-cse
 title: Historique du CSE
 wordpress_id: 488

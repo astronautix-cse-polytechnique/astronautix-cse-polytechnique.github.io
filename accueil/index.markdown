@@ -2,7 +2,7 @@
 author: xcubesat
 comments: false
 date: 2012-03-07 08:39:37+00:00
-layout: page
+layout: article
 slug: accueil
 title: Le Centre Spatial Etudiant
 wordpress_id: 12
@@ -12,9 +12,6 @@ wordpress_id: 12
 
 
 Le Centre Spatial Etudiant est un regroupement d’élèves de l’École Polytechnique, d’enseignants-chercheurs, de d’intervenants des agences spatiales et de l’industrie afin de développer le spatial à l’Ecole Polytechnique. Il se donne notamment pour objectifs de :
-
-
-
 	
   * Promouvoir les activités spatiales sur le campus de l’École Polytechnique
 
