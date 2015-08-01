@@ -1,0 +1,15 @@
+# Site navigation links
+
+- title: About us
+  url: /accueil/
+  excerpt: 
+  image:
+- title: L'Équipe
+  url: /equipe/
+  excerpt: 
+  image: 
+- title: Activités 
+  url: /astronautix/ 
+- title: Projets
+  url: projets-2
+- title: 
