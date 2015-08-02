@@ -1,11 +1,10 @@
 ---
 author: xcubesat
-comments: false
+comments: true
 date: 2013-11-10 21:38:06+00:00
-layout: page
+layout: article
 slug: articles
 title: Actualités
-wordpress_id: 475
 ---
 
 No Content Found

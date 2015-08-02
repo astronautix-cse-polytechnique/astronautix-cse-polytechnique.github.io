@@ -2,8 +2,8 @@
 
 title: Astronautix
 description: Le site officiel du Centre Spatial Étudiant de l'École polytechnique 
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: logo.png
+teaser: logo.png
 locale:
 url:
 
@@ -22,15 +22,15 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Astronautix 
+  email: astronautix.cse.polytechnique@gmail.compressed
   twitter:
   google:
     ad-client: 
     ad-slot: 
   bio: 
   avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname:
+disqus-shortname: astronautix
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

@@ -1,6 +1,6 @@
 ---
 author: xcubesat
-comments: false
+comments: true
 date: 2013-03-26 10:10:26+00:00
 layout: post
 slug: lexploration-spatiale-nest-pas-morte

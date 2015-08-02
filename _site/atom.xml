@@ -7,7 +7,7 @@
   <subtitle>Le site officiel du Centre Spatial Étudiant de l'École polytechnique</subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="/" rel="alternate" type="text/html"/>
-  <updated>2015-08-02T22:54:26+05:30</updated>
+  <updated>2015-08-02T23:11:33+05:30</updated>
   <id>/</id>
   <author>
     <name></name>
@@ -15,6 +15,25 @@
     
   </author>
 
+  
+  <entry>
+    <title>Venez observer le ciel</title>
+    <link href="/articles/venez-observer-le-ciel/"/>
+    <updated>2015-08-03T04:27:49+05:30</updated>
+    <id>/articles/venez-observer-le-ciel</id>
+    <author>
+      <name></name>
+      <uri>/</uri>
+      
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;AstronautiX organise périodiquement des observations du ciel étoilé.&lt;/p&gt;
+
+&lt;p&gt;Pour être tenu au courant des prochaines observations, envoyez un mail à &lt;a href=&quot;olivier.massicot@polytechnique.edu&quot;&gt;Olivier Massicot&lt;/a&gt;&lt;/p&gt;
+
+    </content>
+  </entry>
   
   <entry>
     <title>Recherche Charge Utile pour X-CubeSat 2</title>
@@ -453,27 +472,6 @@ Où en sont la recherche scientifique et les mission spatiales, alors que l’on
 &lt;p&gt;L’exploration spatiale n’a plus le même poids dans l’inconscient collectif qu’auparavant, et elle coûte bien trop cher. Elon Musk, patron de la société SpaceX, première compagnie entièrement privée à avoir réussi à envoyer une fusée dans l’espace, estime par exemple que le plus urgent est de rendre les voyages spatiaux plus abordables. “Si l’humanité doit aller au-delà de notre planète, il faut résoudre le problème du coût. Ce n’est pas pareil d’acheter un avion que d’en refaire le plein d’essence”, souligne-t-il. Son idée est de créer et commercialiser des fusées réutilisables, ce qui réduirait le coût d’un lancement grâce à un mécanisme permettant de revenir atterrir sur Terre après le lancement. Une même fusée pourrait donc être utilisée plusieurs fois. Il a réservé l’exclusivité de la vidéo montrant cette prouesse à un auditoire conquis…&lt;/p&gt;
 
 &lt;p&gt;Lire l’article du Monde &lt;a href=&quot;http://www.lemonde.fr/technologies/article/2013/03/13/fusees-reutilisables-et-colonisation-de-mars-sxsw-regarde-vers-l-espace_1846947_651865.html&quot;&gt;ici&lt;/a&gt;&lt;/p&gt;
-
-    </content>
-  </entry>
-  
-  <entry>
-    <title>Venez observer le ciel</title>
-    <link href="/articles/venez-observer-le-ciel/"/>
-    <updated>2013-03-26T15:39:28+05:30</updated>
-    <id>/articles/venez-observer-le-ciel</id>
-    <author>
-      <name></name>
-      <uri>/</uri>
-      
-    </author>
-    <content type="html">
-      
-      &lt;p&gt;&lt;img src=&quot;http://xspacecenter.files.wordpress.com/2013/03/voie-lactee-dans-le-wyoming-eric-heinz.jpg&quot; alt=&quot;Venez observer le ciel&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;AstronautiX organise périodiquement des observations du ciel étoilé.&lt;/p&gt;
-
-&lt;p&gt;Pour être tenu au courant des prochaines observations, envoyez un mail à jean-pierre.voropaieff@polytechnique.edu&lt;/p&gt;
 
     </content>
   </entry>

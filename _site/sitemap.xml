@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/articles/venez-observer-le-ciel/</loc>
+    <lastmod>2015-08-03T04:27:49+05:30</lastmod>
+  </url>
+  <url>
     <loc>/recherche-charge-utile-pour-x-cubesat-2/</loc>
     <lastmod>2014-05-30T13:08:40+05:30</lastmod>
   </url>
@@ -55,10 +59,6 @@
   <url>
     <loc>/articles/lexploration-spatiale-nest-pas-morte/</loc>
     <lastmod>2013-03-26T15:40:26+05:30</lastmod>
-  </url>
-  <url>
-    <loc>/articles/venez-observer-le-ciel/</loc>
-    <lastmod>2013-03-26T15:39:28+05:30</lastmod>
   </url>
   <url>
     <loc>/accueil/</loc>
