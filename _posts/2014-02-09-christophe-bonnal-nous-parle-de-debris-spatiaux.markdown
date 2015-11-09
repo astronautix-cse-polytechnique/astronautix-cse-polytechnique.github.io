@@ -5,7 +5,7 @@ date: 2014-02-09 10:28:43+00:00
 layout: article
 slug: christophe-bonnal-nous-parle-de-debris-spatiaux
 title: Christophe Bonnal nous parle de Débris Spatiaux
-category: Miniconf
+category: miniconf
 tags:
 - conférence
 - débris

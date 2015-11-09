@@ -16,7 +16,7 @@ L'entête de l'article doit être comme suit :
 	layout: article
 	slug: un-titre-avec-des-tirets
 	title: Un titre normal
-	category: Une catégorie parmi Evenement ou Miniconf (seules catégories utilisées pour le moment)
+	category: Une catégorie parmi event ou Miniconf (seules catégories utilisées pour le moment)
 	---
 
 

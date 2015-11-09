@@ -5,7 +5,7 @@ date: 2013-04-29 17:00:30+00:00
 layout: article
 slug: sommes-nous-toujours-seuls-dans-lunivers
 title: Sommes-nous toujours seuls dans l'Univers ?
-category: Miniconf
+category: miniconf
 ---
 
 [![](http://xspacecenter.files.wordpress.com/2013/03/c3a9crans.jpg)](http://xspacecenter.files.wordpress.com/2013/03/c3a9crans.jpg)

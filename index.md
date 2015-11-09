@@ -16,9 +16,9 @@ title: ""
 
 
 <div class="wrap">
-	<a href="/events/"><h1>Événements</h1></a>
+	<a href="/event/"><h1>Événements</h1></a>
 		<div class="tiles">
-			{% for post in site.categories.Evenement limit:4%}
+			{% for post in site.categories.event limit:4%}
 				{% include post-grid.html %}
 			{% endfor %}
 		</div><!-- /.tiles -->
@@ -28,7 +28,7 @@ title: ""
 <div class="wrap">
 	<a href="/miniconfs/"><h1>Conférences</h1></a>
 	<div class="tiles">
-		{% for post in site.categories.Miniconf limit:4%}
+		{% for post in site.categories.miniconf limit:4%}
 			{% include post-grid.html %}
 		{% endfor %}
 	</div><!-- /.tiles -->

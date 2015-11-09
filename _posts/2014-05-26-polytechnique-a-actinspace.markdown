@@ -5,7 +5,7 @@ date: 2014-05-26 13:02:41+00:00
 layout: article
 slug: polytechnique-a-actinspace
 title: 'Polytechnique à #ActInSpace'
-category: 'Evenement'
+category: event
 ---
 
 Vendredi 23 et Samedi 24 mai dernier, 7 élèves de l’école ont travaillé 24h sans interruption pour inventer les usages de demain des technologies spatiales. Cet #ActInSpace, à mi-chemin entre un hackaton et un Start-Up Week-end, était le premier de la sorte piloté par le CNES, simultanément dans 6 villes de France !

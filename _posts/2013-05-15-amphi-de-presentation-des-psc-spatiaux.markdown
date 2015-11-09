@@ -5,7 +5,7 @@ date: 2013-05-15 16:05:36+00:00
 layout: article
 slug: amphi-de-presentation-des-psc-spatiaux
 title: Amphi de présentation des PSC spatiaux et du CSE
-category: Evenement
+category: event
 ---
 
 ![Amphi de présentation des PSC spatiaux](http://xspacecenter.files.wordpress.com/2013/04/cubesat.jpeg)

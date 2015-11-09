@@ -5,12 +5,12 @@ date: 2015-11-07 23:00:00+00:00
 layout: article
 slug: space-up-x
 title: SpaceUp Polytechnique
-category: Evenement
+category: event
 ---
 
 
 
-*Les 7 et 8 Novembre 2015, l'X a accueilli 130 passionnés d'espace pour partager leurs idées, des plus folles aux plus impressionantes. *
+*Les 7 et 8 Novembre 2015, l'X a accueilli 130 passionnés d'espace pour partager leurs idées, des plus folles aux plus impressionantes.*
 
 
 ### Qu'est ce qu'un SpaceUp ?

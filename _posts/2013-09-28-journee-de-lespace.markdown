@@ -5,7 +5,7 @@ date: 2013-09-28 17:11:54+00:00
 layout: article
 slug: journee-de-lespace
 title: Journée de l'espace
-category: Evenement
+category: event
 ---
 
 La journée de l'espace, organisé par L'Ecole et le binet Astronautix, aura lieu le 2 Octobre 2013 à l'Ecole Polytechnique. Ce sera une occasion pour les élèves de découvrir ou d'en apprendre plus sur les activités spatiales à l'Ecole. De nombreuses activités sont au programme:

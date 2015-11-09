@@ -5,7 +5,7 @@ date: 2014-01-21 11:39:12+00:00
 layout: article
 slug: une-conference-de-lu3p-a-lx
 title: Une conférence de l'U3P à l'X
-category: Miniconf
+category: miniconf
 ---
 
 [![Présentation](http://xspacecenter.files.wordpress.com/2014/01/prc3a9sentation.png)](http://xspacecenter.files.wordpress.com/2014/01/prc3a9sentation.png)

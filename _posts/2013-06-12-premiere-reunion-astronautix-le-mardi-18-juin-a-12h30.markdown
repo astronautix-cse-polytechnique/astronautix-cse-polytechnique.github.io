@@ -5,7 +5,7 @@ date: 2013-06-12 01:04:57+00:00
 layout: article
 slug: premiere-reunion-astronautix-le-mardi-18-juin-a-12h30
 title: Recrutement des nouveaux membres d'AstronautiX le mardi 18 juin à 12h30
-category: Evenement
+category: event
 ---
 
 ![Première réunion AstronautiX le mardi 18 juin à 12h30](http://xspacecenter.files.wordpress.com/2013/06/milky_way_sky-wide.jpg)

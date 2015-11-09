@@ -7,7 +7,7 @@ title: Conférences
 ---
 
 <div class="tiles">
-{% for post in site.categories.Miniconf %}
+{% for post in site.categories.miniconf %}
 {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
