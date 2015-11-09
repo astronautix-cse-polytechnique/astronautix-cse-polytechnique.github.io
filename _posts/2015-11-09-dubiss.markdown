@@ -1,0 +1,30 @@
+---
+author: Etienne Houzé
+comments: false
+date: 2015-11-08 22:00:00+00:00
+layout: article
+slug: dubiss
+title: Dubiss
+---
+
+
+*Déploiement sous ballon d’une voile solaire*
+
+
+Le projet DUBISS ( Deployment Under Ballon of an Inflatable Solar Sail ) a été lancé en septembre 2013 par des élèves de la promotion X2012. Poursuivi par des X2013, le projet est désormais entre les mains d’une équipe de sept X2014 : Alexandra Byba, Jean-Baptiste de Saint Aubert, Colin Ducrotoy, Alexis Goujon, Constantin Krempp, Simon Pekar et Andrei Pietraru.
+
+Comme le nom du projet l’indique, il s’agit de participer aux études actuelles sur les voiles solaires en développant un système de déploiement qui sera testé en Octobre 2016 à Kiruna, lâché depuis un ballon du CNES.
+
+Une voile solaire est un dispositif de propulsion qui utilise la quantité de mouvement des photons émis par les étoiles pour déplacer un corps dans l’espace, à la manière d’un voilier. Elle est constituée d’une grande surface réfléchissante qui permet le transfert d’impulsion du photon à la voile, comme montré sur l’image ci-dessous.
+
+![Impulsion photonique](https://xspacecenter.files.wordpress.com/2014/03/propulsionphotonique.png?w=545)
+
+La propulsion photonique mettant en jeu de très faibles quantités d’énergie, afin d’être efficace, le dispositif doit être extrêmement léger. C’est là que l’intérêt pour les structures gonflables se révèle : celles-ci offrent une méthode de déploiement efficace, rapide et contrôlée pour une masse réduite. 
+
+L’intérêt pour les structures spatiales gonflables est croissant bien que le nombre de projets est très limité pour l’instant. Nous pouvons citer entre autres, le projet LightSail de la NASA qui a vu le déploiement réussi d’une voile solaire dans l’espace le 7 juin 2015.
+
+Le fait d’étudier dans le cadre de notre PSC la technologie gonflable nous permet d’effectuer de nombreuses expériences pour étudier le déploiement, tant au sol qu’en chute libre. Les précédentes équipes se sont notamment intéressées au modèle de la chute libre ainsi qu’à la méthode de gonflage des boudins. L’équipe actuelle est en train de construire le démonstrateur et de le justifier en vue du vol en octobre 2016. 
+
+Voici le déroulement provisoire du vol de test de notre voile gonflable:
+
+![Etapes de l'expérience](https://xspacecenter.files.wordpress.com/2014/03/vol.png?w=545&h=165)
