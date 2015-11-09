@@ -13,19 +13,19 @@ Sur cette page vous trouverez la liste de nos projets en cours. Cliquez sur les 
 
 
 	
-  * [Le projet X-CubeSat de satellite étudiant.](http://xspacecenter.wordpress.com/x-cubesat/)
+  * [Le projet X-CubeSat de satellite étudiant.](x-cubesat/)
 
 	
-  * [Le projet Deployment Under Balloon of an Inflatable Solar Sail (DUBISS).](http://xspacecenter.wordpress.com/dubiss-deploiement-dune-voile-solaire/)
+  * [Le projet Deployment Under Balloon of an Inflatable Solar Sail (DUBISS).](dubiss-deploiement-dune-voile-solaire/)
 
 	
-  * [Le projet PERSEUS.](http://xspacecenter.wordpress.com/perseus/)
+  * [Le projet PERSEUS.](perseus/)
 
 	
-  * [Le projet d'études d'orages par ballons atmosphériques.](http://xspacecenter.wordpress.com/etudes-des-orages-par-ballon/)
+  * [Le projet d'études d'orages par ballons atmosphériques.](etudes-des-orages-par-ballon/)
 
 	
-  * [Le projet X-CubeSat II](https://xspacecenter.wordpress.com/projets-2/x-cubesat-ii/)
+  * [Le projet X-CubeSat II](x-cubesat-ii/)
 
 
 Pour proposer un projet: contact@centrespatial.polytechnique.org
