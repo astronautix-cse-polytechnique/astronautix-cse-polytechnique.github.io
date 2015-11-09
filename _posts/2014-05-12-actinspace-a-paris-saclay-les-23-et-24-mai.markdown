@@ -2,10 +2,9 @@
 author: xcubesat
 comments: false
 date: 2014-05-12 11:27:08+00:00
-layout: post
+layout: article
 slug: actinspace-a-paris-saclay-les-23-et-24-mai
 title: '#ActInSpace à Paris-Saclay les 23 et 24 mai'
-wordpress_id: 571
 tags:
 - '#ActInSpace'
 - CNES

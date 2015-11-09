@@ -2,10 +2,9 @@
 author: xcubesat
 comments: false
 date: 2014-02-09 10:28:43+00:00
-layout: post
+layout: article
 slug: christophe-bonnal-nous-parle-de-debris-spatiaux
 title: Christophe Bonnal nous parle de Débris Spatiaux
-wordpress_id: 501
 tags:
 - conférence
 - débris

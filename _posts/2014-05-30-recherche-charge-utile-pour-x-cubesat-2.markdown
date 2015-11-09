@@ -1,11 +1,10 @@
 ---
 author: xcubesat
-comments: true
+comments: false
 date: 2014-05-30 07:38:40+00:00
-layout: post
+layout: article
 slug: recherche-charge-utile-pour-x-cubesat-2
 title: Recherche Charge Utile pour X-CubeSat 2
-wordpress_id: 583
 teaser: logo.png
 ---
 

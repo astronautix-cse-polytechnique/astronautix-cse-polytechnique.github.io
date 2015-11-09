@@ -2,14 +2,9 @@
 author: xcubesat
 comments: true
 date: 2013-03-26 10:10:26+00:00
-layout: post
+layout: article
 slug: lexploration-spatiale-nest-pas-morte
 title: L'exploration spatiale n'est pas morte
-wordpress_id: 294
-categories:
-- Articles
-post_format:
-- Vidéo
 ---
 
 http://www.youtube.com/watch?feature=player_embedded&v=2Ivr6JF1K-8

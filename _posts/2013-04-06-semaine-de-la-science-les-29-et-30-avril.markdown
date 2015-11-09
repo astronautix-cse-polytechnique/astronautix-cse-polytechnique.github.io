@@ -2,12 +2,9 @@
 author: xcubesat
 comments: false
 date: 2013-04-06 11:21:09+00:00
-layout: post
+layout: article
 slug: semaine-de-la-science-les-29-et-30-avril
 title: Semaine de la science les 29 et 30 avril
-wordpress_id: 334
-post_format:
-- Image
 ---
 
 AstronautiX sera présent dans le **Grand Hall** lors de la semaine de la science :

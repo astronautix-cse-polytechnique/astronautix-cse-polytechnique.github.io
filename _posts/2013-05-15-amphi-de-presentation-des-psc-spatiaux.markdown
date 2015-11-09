@@ -2,12 +2,9 @@
 author: xcubesat
 comments: false
 date: 2013-05-15 16:05:36+00:00
-layout: post
+layout: article
 slug: amphi-de-presentation-des-psc-spatiaux
 title: Amphi de présentation des PSC spatiaux et du CSE
-wordpress_id: 400
-post_format:
-- Image
 ---
 
 ![Amphi de présentation des PSC spatiaux](http://xspacecenter.files.wordpress.com/2013/04/cubesat.jpeg)

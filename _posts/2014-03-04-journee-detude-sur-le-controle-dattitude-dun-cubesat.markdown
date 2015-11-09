@@ -2,12 +2,9 @@
 author: xcubesat
 comments: false
 date: 2014-03-04 18:44:08+00:00
-layout: post
+layout: article
 slug: journee-detude-sur-le-controle-dattitude-dun-cubesat
 title: Journée d'étude sur le contrôle d'attitude d'un CubeSat
-wordpress_id: 515
-categories:
-- Articles
 tags:
 - contrôle d'attitude
 ---

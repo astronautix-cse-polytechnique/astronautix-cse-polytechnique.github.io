@@ -2,10 +2,9 @@
 author: xcubesat
 comments: false
 date: 2013-09-18 08:13:03+00:00
-layout: post
+layout: article
 slug: un-astronaute-a-lx
 title: Un Astronaute à l'X
-wordpress_id: 452
 ---
 
 [![Affiche Clervoy](http://xspacecenter.files.wordpress.com/2013/09/affiche-clervoy2.jpg)](http://xspacecenter.files.wordpress.com/2013/09/affiche-clervoy2.jpg)

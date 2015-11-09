@@ -8,29 +8,19 @@ title: Contact et inscription à la newsletter
 wordpress_id: 16
 ---
 
-Membres du bureau exécutif du CSE :
+Membres du bureau :
 
 
-
-	
-  * [Alain Hilgers](mailto:alain.hilgers@polytechnique.edu), administrateur
+  * [Pierre Lachèvre](mailto:pierre.lachevre@polytechnique.edu) (X2013), président du binet AstronautiX
 
 	
-  * Gérard Auvray, chef de projet
+  * [Louise Fleischer](mailto:louise.fleischer@polytechnique.edu) (X2013), responsable projets spatiaux et Centre Spatial Étudiant
 
 	
-  * [Edoardo Cucchetti](mailto:edoardo.cucchetti@polytechnique.edu) (X2011), président du binet AstronautiX
-
-	
-  * [Florian Marmuse](mailto:florian.marmuse@polytechnique.edu) (X2012), en charge des PSC et projets spatiaux
-
-	
-  * [Aurélien Gouhier](mailto:aurelien.gouhier@polytechnique.edu) (X2012), en charge de la communication du CSE et d'Astronautix
+  * [Ludovic Gil](mailto:ludovic.gil@polytechnique.edu) (X2013), trésorier
 
 
 N'hésitez pas à contacter l'un des membres pour obtenir des informations sur le CSE, AstronautiX, les PSC et projets spatiaux...
 
-Pour être inscrit sur la _liste de diffusion du Centre Spatial Étudiant_ et être tenu informé des activités organisées par AstronautiX, des projets spatiaux ou des stages proposés par les agences spatiales, ou pour toutes autres informations, une seule adresse:[
-](mailto:aurelien.gouhier@polytechnique.edu)
+Pour être inscrit sur la _liste de diffusion du Centre Spatial Étudiant_ et être tenu informé des activités organisées par AstronautiX, des projets spatiaux ou des stages proposés par les agences spatiales, ou pour toutes autres informations, une seule adresse : contact@centrespatial.polytechnique.org
 
-contact@centrespatial.polytechnique.org
