@@ -5,6 +5,7 @@ date: 2014-03-04 18:44:08+00:00
 layout: article
 slug: journee-detude-sur-le-controle-dattitude-dun-cubesat
 title: Journée d'étude sur le contrôle d'attitude d'un CubeSat
+category: Evenement
 tags:
 - contrôle d'attitude
 ---

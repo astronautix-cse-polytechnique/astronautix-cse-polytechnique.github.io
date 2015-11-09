@@ -2,14 +2,11 @@
 
 - title: About us
   url: /accueil/
-  excerpt: 
-  image:
+- title: Activités 
+  url: /astronautix/
+- title: Projets
+  url: /projets-2/
 - title: L'Équipe
   url: /equipe/
-  excerpt: 
-  image: 
-- title: Activités 
-  url: /astronautix/ 
-- title: Projets
-  url: projets-2
-- title: 
+- title: Partenariats
+  url: /partenaires/

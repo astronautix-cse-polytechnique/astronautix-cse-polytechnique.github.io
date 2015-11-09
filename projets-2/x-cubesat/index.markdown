@@ -5,7 +5,6 @@ date: 2014-03-12 16:29:18+00:00
 layout: page
 slug: x-cubesat
 title: X-CubeSat
-wordpress_id: 525
 ---
 
 

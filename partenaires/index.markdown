@@ -5,15 +5,8 @@ date: 2012-05-28 14:17:22+00:00
 layout: page
 slug: partenaires
 title: Partenariats
-wordpress_id: 100
 ---
-
-## 
-
-
-
-
-## 
+ 
 
 
 Les activités du Centre Spatial Etudiant doivent reposer sur des relations soutenues avec les acteurs du spatial. Un projet de partenariat pour des collaborations renforcées est en cours d’élaboration.

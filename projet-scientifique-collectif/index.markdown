@@ -5,7 +5,6 @@ date: 2012-05-28 14:31:21+00:00
 layout: page
 slug: projet-scientifique-collectif
 title: Projet Scientifique Collectif
-wordpress_id: 121
 ---
 
 Durant leur formation à l’Ecole Polytechnique, les élèves polytechniciens réalisent pendant un an (en deuxième année) un Projet Scientifique Collectif.
