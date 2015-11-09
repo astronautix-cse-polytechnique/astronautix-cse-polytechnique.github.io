@@ -37,20 +37,25 @@ Contacts :
 
 * **Tuteur du projet** : [M. Meftah](mailto:meftah@aerov.jussieu.fr) – CNRS-LATMOS
 
-* [Philippe Cherabier](mailto:philippe.cherabier@polytechnique.edu)
+* **Groupe Structure**
 
-* [Romain Demarets](mailto:romain.demarets@polytechnique.edu)
+    * [Étienne Bamas](mailto:etienne.bamas@polytechnique.edu)
+    * [Axel Dion](mailto:axel.dion@polytechnique.edu)
+    * [Florence Duveiller](mailto:florence.duveiller@polytechnique.edu)
+    * [Guillaume Mestdagh](mailto:guillaume.mestdagh@polytechnique.edu)
+    * [Pierre Cambournac](mailto:pierre.cambournac@polytechnique.edu)
+    * [Raphaël Duroselle](mailto:raphael.duroselle@polytechnique.edu)
+    * [Thibault Receveur](mailto:thibault.receveur@polytechnique.edu)
 
-* [Gaspard Denis](mailto:gaspard.denis@polytechnique.edu)
+* **Groupe Charge Utile**
 
-* [Laetitia Eichner](mailto:laetitia.eichner@polytechnique.edu)
-
-* [Dimitri Lozeve](mailto:dimitri.lozeve@polytechnique.edu)
-
-* [Antoine Ogier](mailto:antoine.ogier@polytechnique.edu)
-
-* [Romane Oliverio](mailto:romane.oliverio@polytechnique.edu)
-
-* [Camille Souchet](mailto:camille.souchet@polytechnique.edu)
+    * [Philippe Cherabier](mailto:philippe.cherabier@polytechnique.edu)
+    * [Romain Demarets](mailto:romain.demarets@polytechnique.edu)
+    * [Gaspard Denis](mailto:gaspard.denis@polytechnique.edu)
+    * [Laetitia Eichner](mailto:laetitia.eichner@polytechnique.edu)
+    * [Dimitri Lozeve](mailto:dimitri.lozeve@polytechnique.edu)
+    * [Antoine Ogier](mailto:antoine.ogier@polytechnique.edu)
+    * [Romane Oliverio](mailto:romane.oliverio@polytechnique.edu)
+    * [Camille Souchet](mailto:camille.souchet@polytechnique.edu)
 
 
