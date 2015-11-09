@@ -8,6 +8,7 @@ Trouvez le lien [ici](http://astronautix-cse-polytechnique.github.io/)
 
 Les articles s'écrivent en [Markdown](http://www.wikiwand.com/fr/Markdown), une syntaxe très simple.
 L'entête de l'article doit être comme suit :
+
 	---
 	author: votre nom
 	comments: false
@@ -40,6 +41,7 @@ Puis installer Jekyll et ses dépendances (Ruby, Rubygems, nodeJS, Python2.7)
 	gem install jekyll
 
 Pour lancer le serveur
+
 	jekyll build
 	jekyll serve
 
