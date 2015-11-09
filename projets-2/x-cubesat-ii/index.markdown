@@ -13,7 +13,17 @@ wordpress_id: 605
 
 
 
-Répondant à un appel d’offre du CNRS-LATMOS, le CSE se lance à nouveau dans la construction d’un nano-satellite. Composé de trois CubeSat, il a pour but d’étudier les relations Soleil/Terre et plus précisément l’éclairement solaire total et spectral, ainsi que ses fluctuations au cours du temps. Ce projet, encore dans sa phase 0, fait intervenir cinq étudiants déterminés à réaliser entièrement la plateforme du nano-satellite et sa charge utile. Profitant de l’expérience du CSE et des conseils avisés du LATMOS et du CNES, l’équipe avance pas à pas dans le projet : ayant établi les plans d’un nouveau radiomètre solaire et d’un photomètre, s’occupant actuellement de la spécification mission, ils peuvent espérer un lancement en 2019-2020.
+Répondant à un appel d’offre du CNRS-LATMOS, le CSE se lance à nouveau
+dans la construction d’un nano-satellite. Composé de trois CubeSat, il
+a pour but d’étudier les relations Soleil/Terre et plus précisément
+l’éclairement solaire total et spectral, ainsi que ses fluctuations au
+cours du temps. Ce projet, encore dans sa phase 0, fait intervenir
+cinq étudiants déterminés à réaliser entièrement la plateforme du
+nano-satellite et sa charge utile. Profitant de l’expérience du CSE et
+des conseils avisés du LATMOS et du CNES, l’équipe avance pas à pas
+dans le projet : ayant établi les plans d’un nouveau radiomètre
+solaire et d’un photomètre, s’occupant actuellement de la
+spécification mission, ils peuvent espérer un lancement en 2019-2020.
 
 
 
@@ -25,32 +35,22 @@ Répondant à un appel d’offre du CNRS-LATMOS, le CSE se lance à nouveau dans
 
 Contacts :
 
+* **Tuteur du projet** : [M. Meftah](mailto:meftah@aerov.jussieu.fr) – CNRS-LATMOS
+
+* [Philippe Cherabier](mailto:philippe.cherabier@polytechnique.edu)
+
+* [Romain Demarets](mailto:romain.demarets@polytechnique.edu)
+
+* [Gaspard Denis](mailto:gaspard.denis@polytechnique.edu)
+
+* [Laetitia Eichner](mailto:laetitia.eichner@polytechnique.edu)
+
+* [Dimitri Lozeve](mailto:dimitri.lozeve@polytechnique.edu)
+
+* [Antoine Ogier](mailto:antoine.ogier@polytechnique.edu)
+
+* [Romane Oliverio](mailto:romane.oliverio@polytechnique.edu)
+
+* [Camille Souchet](mailto:camille.souchet@polytechnique.edu)
 
 
-
-**Tuteur du projet** : **M. Meftah** – CNRS-LATMOS – [_meftah@aerov.jussieu.fr_](mailto:meftah@aerov.jussieu.fr)
-
-
-
-
-**Maxime Inizan**, [_maxime.inizan@polytechnique.edu_](mailto:maxime.inizan@polytechnique.edu)
-
-
-
-
-**Ludovic de Geis de Guyon de Pampelonne**, [_ludovic.de-pampelonne@polytechnique.edu _](mailto:ludovic.de-pampelonne@polytechnique.edu)
-
-
-
-
-**Jules Pommies**, [_jules.pommies@polytechnique.edu _](mailto:jules.pommies@polytechnique.edu)
-
-
-
-
-**Antoine Qian**, [_antoine.qian@polytechnique.edu_](mailto:antoine.qian@polytechnique.edu)
-
-
-
-
-**Thomas Bordier**, [_thomas.bordier@polytechnique.edu_](mailto:thomas.bordier@polytechnique.edu)
