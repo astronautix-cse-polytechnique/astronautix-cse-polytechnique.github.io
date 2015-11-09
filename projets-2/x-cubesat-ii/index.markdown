@@ -8,24 +8,38 @@ title: X-CubeSat II
 wordpress_id: 605
 ---
 
-**_SERB, un nano-satellite dédié aux relations Soleil-Terre_**
 
 
+# SERB, un nano-satellite dédié aux relations Soleil-Terre
 
+## Objectif scientifique
 
-Répondant à un appel d’offre du CNRS-LATMOS, le CSE se lance à nouveau
-dans la construction d’un nano-satellite. Composé de trois CubeSat, il
-a pour but d’étudier les relations Soleil/Terre et plus précisément
-l’éclairement solaire total et spectral, ainsi que ses fluctuations au
-cours du temps. Ce projet, encore dans sa phase 0, fait intervenir
-cinq étudiants déterminés à réaliser entièrement la plateforme du
-nano-satellite et sa charge utile. Profitant de l’expérience du CSE et
-des conseils avisés du LATMOS et du CNES, l’équipe avance pas à pas
-dans le projet : ayant établi les plans d’un nouveau radiomètre
-solaire et d’un photomètre, s’occupant actuellement de la
-spécification mission, ils peuvent espérer un lancement en 2019-2020.
+Le projet SERB X-Cubesat II s’inscrit dans la thématique plus large du
+réchauffement climatique. Ce partenariat entre le LATMOS et le CSE a
+pour objectif d'étudier les relations entre le soleil et la terre avec
+une problématique centrale: quelle est la part due variations du
+rayonnement solaire dans le réchauffement climatique? Pour répondre à
+cette question les scientifiques ont besoin d'avoir accès à un bilan
+radiatif terrestre précis et une mesure de l'éclairement solaire
+total. La mission de notre nanosatellite est donc de mesurer avec des
+précisions importantes l'éclairement solaire total, l'éclairement
+terrestre total ainsi que l’éclairement IR et UV pour établir ce bilan
+radiatif et essayer de comprendre l'influence des différentes parties
+du spectre dans le réchauffement climatique.
 
+## Avancement du projet
 
+L'équipe des X2013 a défini le cadre général de la structure (basées
+sur 3 blocs de Cubesat) et de la charge utile (les instruments qui
+vont être implanter dans le satellite ont été choisis). Pour cette
+année nous avons scindés le groupe en deux équipes: une équipe
+structure, une équipe charge utile. L'objectif est de finir la
+conception du satellite à la fin de l'année pour éventuellement
+pouvoir réaliser un prototype. Cela passe par le choix des composants
+de la structure, la vérification de la compatibilité entre eux et avec
+la charge utile, la fin de la conception des instruments de mesure, le
+choix des matériaux pour ces instruments et la vérification du respect
+du cahier des charges.
 
 
 ![CubeSat2](https://xspacecenter.files.wordpress.com/2015/04/cubesat2.jpg?w=300)
@@ -33,7 +47,7 @@ spécification mission, ils peuvent espérer un lancement en 2019-2020.
 
 
 
-Contacts :
+## Contacts
 
 * **Tuteur du projet** : [M. Meftah](mailto:meftah@aerov.jussieu.fr) – CNRS-LATMOS
 
