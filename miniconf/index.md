@@ -1,7 +1,8 @@
 ---
 comments: false
 date: 2012-03-07 08:40:21+00:00
-layout: archive
+layout: page
+share: false
 slug: confs
 title: Conférences
 ---
