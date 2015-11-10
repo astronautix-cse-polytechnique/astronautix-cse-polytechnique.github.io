@@ -26,7 +26,7 @@ title: ""
 
 
 <div class="wrap">
-	<a href="/miniconfs/"><h1>Conférences</h1></a>
+	<a href="/miniconf/"><h1>Conférences</h1></a>
 	<div class="tiles">
 		{% for post in site.categories.miniconf limit:4%}
 			{% include post-grid.html %}
