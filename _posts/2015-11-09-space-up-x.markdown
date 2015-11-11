@@ -6,7 +6,7 @@ layout: article
 slug: space-up-x
 title: SpaceUp Polytechnique
 category: event
-logo: spaceupx.png
+logo: /images/spaceupx.png
 ---
 
 
