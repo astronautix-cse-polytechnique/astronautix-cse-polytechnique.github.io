@@ -5,6 +5,8 @@ date: 2015-11-08 23:00:00+00:00
 layout: article
 slug: lancement-x-cube-sat
 title: X-CubeSat, un lancement prévu fin 2016
+image:
+ teaser: X-cubesat.png
 ---
 
 

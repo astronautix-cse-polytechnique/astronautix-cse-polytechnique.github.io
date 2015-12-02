@@ -7,6 +7,8 @@ slug: venez-observer-le-ciel
 title: Venez observer le ciel
 teaser: observation.jpg
 category: event
+image:
+ teaser: observations.jpg
 ---
 AstronautiX organise périodiquement des observations du ciel étoilé.
 

@@ -6,6 +6,8 @@ layout: article
 slug: un-astronaute-a-lx
 title: Un Astronaute à l'X
 category: miniconf
+image:
+ teaser: affiche-clervoy.jpg
 ---
 
 [![Affiche Clervoy](http://xspacecenter.files.wordpress.com/2013/09/affiche-clervoy2.jpg)](http://xspacecenter.files.wordpress.com/2013/09/affiche-clervoy2.jpg)

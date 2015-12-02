@@ -11,6 +11,8 @@ tags:
 - CNES
 - Concours
 - Innovation
+image:
+ teaser: actinspace.png
 ---
 
 [![tt1392099_10154033970440301_733269100347651870_n](http://xspacecenter.files.wordpress.com/2014/05/tt1392099_10154033970440301_733269100347651870_n.jpg)](http://xspacecenter.files.wordpress.com/2014/05/tt1392099_10154033970440301_733269100347651870_n.jpg)

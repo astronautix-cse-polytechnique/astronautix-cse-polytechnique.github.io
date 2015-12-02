@@ -1,19 +1,13 @@
 <div class="sidebar well">
 	<h3>Actualités</h3>
 
-	<h4>Evenements à venir</h4>
-		<ul>
-			<li>SpaceUp Polytechnique le week-end du 7 au 8 Novembre </li>
-		</ul>
+	{% for group in site.data.sidebar %}
+		<h4>{{group.title}}</h4>
+			{% for event in group.events %}
+				<ul>
+					<li>{{event.description}} </li>
+				</ul>
+			{% endfor %}
+	{% endfor %}
 
-	<h4>Mini-conférences</h4>
-		<ul>
-			<li>Florence pour  les voyages sur Mars</li>
-			<li>Etienne pour l'astro-photographie
-		</ul>
-
-	<h4>Prochains rassemblements</h4>
-		<ul>
-		<li>Réunion mardi 10 Novembre à 20h</li>
-		</ul>
 </div>
