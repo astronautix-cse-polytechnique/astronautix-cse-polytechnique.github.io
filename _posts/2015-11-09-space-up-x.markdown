@@ -1,11 +1,12 @@
 ---
-author: Alexis Dion
+author: Axel Dion
 comments: false
 date: 2015-11-07 23:00:00+00:00
 layout: article
 slug: space-up-x
 title: SpaceUp Polytechnique
 category: event
+teaser: spaceupx.png
 ---
 
 
