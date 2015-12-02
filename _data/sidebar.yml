@@ -1,0 +1,16 @@
+#Site sidebar
+
+
+- title: Evénements à venir
+  events:
+      - description: SpaceUp Polytechnique le week-end du 7 au 8 Novembre
+
+- title: Mini-conférences
+  events:
+    - description: Pierre pour l'Homme dans l'espace le 1 Décembre
+    - description: Florence pour les voyages sur Mars
+    - description: Etienne pour l'astro-photographie
+
+- title: Prochains rassemblements
+  events:
+    - description: Mardi 20h toutes les semaines
