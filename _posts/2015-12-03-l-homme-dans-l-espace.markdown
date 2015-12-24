@@ -7,7 +7,7 @@ slug: l-homme-dans-l-espace
 title: L'Homme dans l'espace
 category: miniconf
 image:
- teaser: ISS.jpg
+ teaser: ISSthumb.jpg
 ---
 
 *Cet article est un compte-rendu de la conférence donnée par Pierre Auclair le mardi 01 Décembre à Polytechnique, vous pouvez trouver la présentation [ici](/images/lifeInSpace.pdf)*

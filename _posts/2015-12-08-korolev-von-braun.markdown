@@ -7,7 +7,7 @@ slug: korolev-von-braun
 title: Korolev et von Braun
 category: miniconf
 image: 
- teaser: vonBraun.jpg
+ teaser: vonBraunthumb.jpg
 ---
 
 *Cet article est un compte-rendu de la conférence donnée par Dimitri Lozeve le mardi 8 décembre à Polytechnique, vous pouvez trouver la présentation [ici](/images/korolevVonBraun.pdf)*
