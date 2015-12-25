@@ -1,12 +1,14 @@
 #Site sidebar
 
 
-- title: Evénements à venir
+- title: Evénements
   events:
+      - description: Conférence de Hervé Dole le 10 Décembre
       - description: SpaceUp Polytechnique le week-end du 7 au 8 Novembre
 
 - title: Mini-conférences
   events:
+    - description: Dimitri pour la vie de Korolev et Von Braun
     - description: Pierre pour l'Homme dans l'espace le 1 Décembre
     - description: Florence pour les voyages sur Mars
     - description: Etienne pour l'astro-photographie
