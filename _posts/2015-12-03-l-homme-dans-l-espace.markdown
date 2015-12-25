@@ -6,6 +6,7 @@ layout: article
 slug: l-homme-dans-l-espace
 title: L'Homme dans l'espace
 category: miniconf
+excerpt: L'Homme est présent dans l'espace depuis maintenant 60 ans. Quels sont les obstacles à des voyages interplanétaires aujourd'hui ?
 image:
  teaser: ISSthumb.jpg
 ---

@@ -5,6 +5,8 @@ date: 2013-03-26 22:46:44+00:00
 layout: page
 slug: astronautix
 title: Activités
+excerpt: Les activités du binet Astronautix
+tags: Astronautix, Polytechnique, binet, spatial, centre spatial étudiant, étudiant
 wordpress_id: 326
 ---
 

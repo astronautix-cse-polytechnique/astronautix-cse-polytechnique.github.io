@@ -5,7 +5,8 @@ layout: page
 share: false
 meta: false
 slug: derniers-articles
-title: Articles
+title: Derniers articles
+tags: Astronautix, Polytechnique, binet, spatial, centre spatial étudiant, étudiant, articles
 ---
 
 <div class="tiles">

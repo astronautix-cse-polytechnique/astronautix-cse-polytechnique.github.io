@@ -5,6 +5,8 @@ layout: page
 share: false
 slug: confs
 title: Conférences
+excerpt: Conférences données dans le cadre d'Astronautix
+tags: Astronautix, Polytechnique, binet, spatial, centre spatial étudiant, étudiant, conférences
 ---
 
 <div class="tiles">

@@ -1,11 +1,12 @@
 ---
-author: xcubesat
+author: Astronautix
 comments: false
 date: 2012-03-07 08:39:37+00:00
 layout: page
 slug: accueil
 title: Le Centre Spatial Etudiant
-wordpress_id: 12
+excerpt: Bienvenue sur le site d'Astronautix et du Centre Spatial étudiant de l'école Polytechnique.
+tags: AstronautiX, Polytechnique, Centre spatial étudiant, observation, cubesat, xcubesat, dubiss, association, binet, étudiant
 ---
 
 **Le Centre Spatial Etudiant**

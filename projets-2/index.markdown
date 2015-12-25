@@ -4,7 +4,9 @@ comments: false
 date: 2014-03-10 16:46:31+00:00
 layout: page
 slug: projets-2
-title: Projets
+title: Projets spatiaux
+excerpt: Les projets spatiaux portés par les étudiants de l'Ecole Polytechnique
+tags: Astronautix, Polytechnique, binet, spatial, centre spatial étudiant, étudiant, projet, cubesat, xcubesat, dubiss, perseus
 wordpress_id: 519
 ---
 

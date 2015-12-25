@@ -5,6 +5,8 @@ date: 2013-02-05 10:13:36+00:00
 layout: page
 slug: stages-et-opportunites
 title: Stages et Opportunités
+excerpt: Astronautix propose aux étudiants des stages dans le domaine du spatial
+tags: Astronautix, Polytechnique, binet, spatial, centre spatial étudiant, étudiant, stage
 wordpress_id: 214
 ---
 

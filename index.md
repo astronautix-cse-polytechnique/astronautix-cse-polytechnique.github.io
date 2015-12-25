@@ -1,7 +1,9 @@
 ---
 layout: archive
 permalink: /
-title: ""
+title: "Astronautix, binet spatial de l'Ecole Polytechnique"
+excerpt: Bienvenue sur le site d'Astronautix et du Centre Spatial Étudiant de l'école Polytechnique.
+tags: AstronautiX, Polytechnique, Centre spatial étudiant, observation, cubesat, xcubesat, dubiss, association, binet, étudiant
 ---
 <div class="wrap well">
 
