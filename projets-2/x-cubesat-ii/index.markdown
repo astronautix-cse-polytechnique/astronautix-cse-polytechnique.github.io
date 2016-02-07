@@ -41,7 +41,7 @@ Comprendre les relations entre variations UV du soleil et l’ozone stratosphér
 
 Les mesures de TSI effectuées au cours de différentes missions montre une période de 11 ans environ au cours de laquelle la TSI varie de 0,5% environ. C'est pour inscrire cette mesure de TSI dans la durée et en améliorer la précision qu'a été créé notre projet.
 
-[![](/images/XCII1.png)](/images/XCII2.png)
+[![](/images/XCII2.png)](/images/XCII2.png)
 
 Cette représentation du bilan radiatif de la Terre montre les nombreuses interactions entre notre atmosphère et le rayonnement solaire. 
 Les infrarouges ont tendance à chauffer la basse atmosphère et le sol tandis que les rayons UV, plus énergétiques s'arrêtent d'avantage dans la haute atmosphère (stratosphère et plus haut). 
@@ -51,8 +51,8 @@ Les UV sont particulièrement importants (d'où la présence d'un capteur UV sur
 Ils ont également une action capitale sur la haute atmosphère en permettant la création d'ozone. 
 La figure suivante nous montre l'intensité du rayonnement en fonction de la longueur d'onde (en bleu) et la variabilité en fonction de la longueur d'onde (en vert).
 
-[![](/images/XCII1.png)](/images/XCII3.png)
-[![](/images/XCII1.png)](/images/XCII4.png)
+[![](/images/XCII3.png)](/images/XCII3.png)
+[![](/images/XCII4.png)](/images/XCII4.png)
 
 Cette figure nous montre les ondes (de longueurs d'onde élevées, infrarouges et plus) réfléchies vers l'espace. 
 Les données ont été recueillies durant la mission PICARD. 
@@ -67,11 +67,11 @@ Un groupe s'occupe de la structure et de ses différents enjeux, à savoir l'ord
 La deuxième équipe est responsable de l'étude de la charge utile donc des différents capteur, capteur infrarouge, photomètre UV, le radiomètre solaire et la caméra. 
 Pour atteindre ces objectifs, une étude précise avec des simulations numériques sont nécessaires. Voici un exemple de modélisation CATIA du radiomètre solaire : 
 
-[![](/images/XCII1.png)](/images/XCII5.png)
+[![](/images/XCII5.png)](/images/XCII5.png)
 
 Voici également la maquette provisoire du nano-satellite : 
 
-[![](/images/XCII1.png)](/images/XCII6.png)
+[![](/images/XCII6.png)](/images/XCII6.png)
 
 Pour mener à bien la mission, il faut également déterminer avec précision l'orbite et les différentes phases de pointage (pointage solaire ou pointage vers la station sol pour transmettre les données).
 
