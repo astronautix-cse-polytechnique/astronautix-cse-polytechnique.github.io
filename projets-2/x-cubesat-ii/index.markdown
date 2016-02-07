@@ -18,7 +18,7 @@ Profitant de l’expérience du Centre spatial étudiant et des conseils avisés
 
 
 
-##Qu'est-ce qu'un cubesat ?
+## Qu'est-ce qu'un cubesat ?
 
 Un CubeSat est formé de cubes de 10 cm d’arête. 
 Les spécifications techniques de ce format ont été développées conjointement par l’université technique de Californie et par l’université de Stanford, afin de rendre possible la construction de satellites par les universités. 
@@ -30,7 +30,7 @@ Mais c'est surtout en constellation que les cubesats tirent leur épingle du jeu
 Leur faible coût permet de les lancer en masse et donc obtenir une couverture importante de la surface terrestre. 
 C'est ainsi que de nombreuses start-up se sont lancées dans leur fabrication afin de proposer différents services comme la surveillance du trafic maritime par exemple.
 
-##Objectifs scientifiques :
+## Objectifs scientifiques :
 
 L'objectif scientifique est triple : 
 Améliorer notre connaissance de la TSI (total solar irradiance) et étendre les mesures sur la durée.
@@ -60,7 +60,7 @@ Cela souligne l'importance du capteur infrarouge de notre nano-satellite pour é
 Une meilleure compréhension de ces phénomènes est capitale pour développer de nouveaux modèles climatiques.
 
 
-##Avancement du projet :
+## Avancement du projet :
 
 Après 1 an de travail sur la phase 0 du projet, les deux nouvelles équipes se sont divisé les tâches. 
 Un groupe s'occupe de la structure et de ses différents enjeux, à savoir l'ordinateur de bord, la carte bande S de communication, l'ADCS pour permettre de pointer le soleil avec une grande précision.
