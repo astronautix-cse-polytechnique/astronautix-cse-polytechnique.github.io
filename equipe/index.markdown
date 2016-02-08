@@ -17,6 +17,7 @@ Membres du bureau :
 	
   * [Pierre Auclair](mailto:pierre.auclair@polytechnique.edu) (X2014), co-président, responsable projets spatiaux et Centre Spatial Étudiant
 
+  * [Etienne Houzé](mailto:etienne.houze@polytechnique.edu) (X2014), vice-président du binet AstronautiX
 	
   * [Dimitri Lozève](mailto:dimitri.lozeve@polytechnique.edu) (X2014), trésorier
 
