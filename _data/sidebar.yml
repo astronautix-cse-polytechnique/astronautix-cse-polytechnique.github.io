@@ -4,12 +4,14 @@
 - title: Evénements
   events:
       - description: Space Week la semaine du 9 au 13 Mai
+      - description: Projection de films spatiaux en amphi Becquerel le 9 Mai à 21h
+      - description: Radio-amateurisme le 10 Mai à 18h
       - description: Visite de l'IAS le 12 Mai
       - description: Participation au SpaceUp Helsinki les 6 et 7 février
 
-- title: Mini-conférences
+- title: Conférences
   events:
-    - description: Retour des mini-conférences le 3 Mai
+    - description: Jean-Pierre Bibring, astrophysicien à l'IAS le 12 Mai à 20h30
 
 - title: Prochains rassemblements
   events:
