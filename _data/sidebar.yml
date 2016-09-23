@@ -3,17 +3,13 @@
 
 - title: Evénements
   events:
-      - description: Space Week la semaine du 9 au 13 Mai
-      - description: Projection de films spatiaux en amphi Becquerel le 9 Mai à 21h
-      - description: Radio-amateurisme le 10 Mai à 18h
-      - description: Visite de l'IAS le 12 Mai
-      - description: Participation au SpaceUp Helsinki les 6 et 7 février
+      - description: Fête de la Science les 7 et 8 Octobre dans le grand Hall de Polytechnique.
+      - description: IAC 2016 à Guadalajara, Mexique, du 26 au 30 Septembre.
 
 - title: Conférences
   events:
-    - description: Jean-Pierre Bibring, astrophysicien à l'IAS le 12 Mai à 20h30
+    - description: Jean-François Clervoy, astronaute polytechnicien.
 
 - title: Prochains rassemblements
   events:
-    - description: Présentation des PSC spatiaux durant la Space Week
     - description: Mardi 20h toutes les semaines
