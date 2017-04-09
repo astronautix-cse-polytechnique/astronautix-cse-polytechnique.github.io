@@ -17,7 +17,7 @@ Cette année, le CSE regroupe un ensemble de 12 PSC spatiaux inscrits dans les d
 Notre ambition est de proposer des formations adaptées aux groupes de PSC spatiaux, de faire le lien entre les projets traitant de problématiques proches et d’assurer la continuité des projets entre les promotions. À cela s’ajoutent des activités de promotion du secteur spatial auprès des élèves, de la direction de l’École et des acteurs du spatial.
 
 
-Liste des Projets :
+#### Liste des Projets :
 
 -	[X-CubeSat](#x-cubesat)
 -	[X-CubeSat II](#x-cubesat-ii)
