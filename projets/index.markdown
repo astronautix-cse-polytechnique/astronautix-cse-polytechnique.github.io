@@ -20,13 +20,13 @@ Menu :
 -	[X-CubeSat II](#x-cubesat-ii)
 -	[X-Lune](#x-lune)
 -	[Drone Martien](#drone-martien)
--	[Combinaison d’exploration martienne](#combinaison-d’exploration-martienne)
--	[MAV : Mars Ascent Vehicle](#mav-:-mars-ascent-vehicle)
--	[Le Tour de Mars en 80 Jours - Mars City Design](#le-tour-de-mars-en-80-jours)
--	[Autarcie energétique d’une colonie martienne](#autarcie-energétique-d’une-colonie-martienne)
+-	[Combinaison exploration martienne](#combinaison-d’exploration-martienne)
+-	[Mars Ascent Vehicle](#mars-ascent-vehicle)
+-	[Le Tour de Mars en 80 Jours](#le-tour-de-mars-en-80-jours)
+-	[Autarcie energétique pour une colonie martienne](#autarcie-energétique-pour-une-colonie-martienne)
 -	[Système de stabilisation de pression dans un habitat spatial](#système-de-stabilisation-de-pression-dans-un-habitat-spatial)
--	[Nano satellite d’exploration lunaire à propulsion électrique](#nano-satellite-d’exploration-lunaire-à-propulsion-électrique)
--	[ADCS : Système de contrôle d’attitude d’un nanosatellite](#adcs-:-système-de-contrôle-d’attitude-d’un-nanosatellite)
+-	[Nano satellite pour exploration de la lune à propulsion électrique](#nano-satellite-pour-exploration-de-la-lune-à-propulsion-électrique)
+-	[Système de contrôle d’attitude d’un nanosatellite](#système-de-contrôle-d’attitude-d’un-nanosatellite)
 
 ---
 
@@ -172,7 +172,7 @@ CNES
 
 ---
 
-#### Combinaison d’exploration martienne
+#### Combinaison exploration martienne
 
 Les conditions extrêmes de la surface martienne imposent le port de combinaisons extrêmement fiables et résistantes, qui font appel à des technologies de pointe. L'idée de ce PSC est de construire puis de mettre en oeuvre lors d'une mission simulée un démonstrateur technologique simple d'un tel dispositif de survie.
 La combinaison martienne devra non seulement résister aux conditions de vie martiennes, mais aussi être réalisable sur place. C’est pourquoi l’une des exigences du PSC est que les parties rigides de la combinaison soient imprimables via une imprimante 3D.
@@ -195,7 +195,7 @@ La combinaison martienne devra non seulement résister aux conditions de vie mar
 ---
 
 
-#### MAV : Mars Ascent Vehicle
+#### Mars Ascent Vehicle
 
 Ce projet s’attaque à l’une des problématiques majeures de l’exploration de Mars par des astronautes : amener un véhicule sur Mars capable de redécoller avec un équipage. Ce véhicule modulaire doit permettre de décoller de Mars et de mettre en orbite un équipage, résister à une rentrée atmosphérique à partir de l’orbite de Mars (avec des protections thermiques), et être compatible avec des lanceurs en développement.
 	Il s’agit donc pour les membres du groupe d’optimiser les trajectoires du module, mais aussi de commencer à le dimensionner et à le modéliser.
@@ -238,7 +238,7 @@ Concours Mars City Design
 
 ---
 
-#### Autarcie energétique d’une colonie martienne
+#### Autarcie energétique pour une colonie martienne
 
 Ce projet pense l’approvisionnement énergétique durable d’une colonie sur Mars, grâce à un dispositif permettant d’absorber le rayonnement solaire dans les domaines UV et infrarouge
 
@@ -288,7 +288,7 @@ Concours Mars City Design
 
 ---
 
-#### Nano satellite d’exploration lunaire à propulsion électrique
+#### Nano satellite pour exploration de la lune à propulsion électrique
 
 Ce projet, en partenariat avec Thales Alenia Space, vise à mener une étude préliminaire au lancement d’un nanosatellite à propulsion électrique, qui amènerait une charge utile de plusieurs kilos en orbite basse lunaire.
 Le passage obligé par la ceinture de Van Allen et ses radiations nocives, la masse relativement élevée de la charge utile pour ce type de mission et la faible poussée des systèmes de propulsion électrique sont autant de défis ambitieux que nous avons à relever pour mener à bien notre projet, qui nous conduit à choisir une stratégie cohérente de poussée et à réaliser un prédimensionnement adapté du nanosatellite. Une vision globale du projet, l’utilisation adéquate d’outils numériques performants, une gestion ingénieuse des nombreux paramètres afin d’optimiser le coût de la mission et le temps de trajet sont les points-clefs de la conception de ce qui sera, nous le souhaitons, le premier nanosatellite à propulsion entièrement électrique à atteindre l’orbite basse lunaire.
@@ -310,7 +310,7 @@ Thalès
 
 ---
 
-#### ADCS : Système de contrôle d’attitude d’un nanosatellite
+#### Système de contrôle d’attitude d’un nanosatellite
 
 Des étudiants de l'Université Pierre et Marie Curie développent un nano-satellite et partagent la réalisation du système de contrôle d'attitude avec des étudiants de Polytechnique.
 Ce nanosatellite, dans le cadre de la mission METEOR, vise à étudier le spectre ultraviolet, et donc la composition chimique des météroïdes, et de déterminer leurs trajectoires.
