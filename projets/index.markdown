@@ -16,14 +16,17 @@ Vous trouverez ci-dessous une description des projets en cours de développement
 
 Menu :
 
--[X-CubeSat](#x-cubesat)
--[X-CubeSat II](#x-cubesat-ii)
--[X-Lune](#x-lune)
--[Drone Martien](#drone-martien)
--[Combinaison d’exploration martienne](#combinaison-d’exploration-martienne)
--[MAV : Mars Ascent Vehicle](#mav-:-mars-ascent-vehicle)
--[Le Tour de Mars en 80 Jours - Mars City Design](#le-tour-de-mars-en-80-jours)
--[Autarcie energétique d’une colonie martienne](#autarcie-energétique-d’une-colonie-martienne)
+-	[X-CubeSat](#x-cubesat)
+-	[X-CubeSat II](#x-cubesat-ii)
+-	[X-Lune](#x-lune)
+-	[Drone Martien](#drone-martien)
+-	[Combinaison d’exploration martienne](#combinaison-d’exploration-martienne)
+-	[MAV : Mars Ascent Vehicle](#mav-:-mars-ascent-vehicle)
+-	[Le Tour de Mars en 80 Jours - Mars City Design](#le-tour-de-mars-en-80-jours)
+-	[Autarcie energétique d’une colonie martienne](#autarcie-energétique-d’une-colonie-martienne)
+-	[Système de stabilisation de pression dans un habitat spatial](#système-de-stabilisation-de-pression-dans-un-habitat-spatial)
+-	[Nano satellite d’exploration lunaire à propulsion électrique](#nano-satellite-d’exploration-lunaire-à-propulsion-électrique)
+-	[ADCS : Système de contrôle d’attitude d’un nanosatellite](#adcs-:-système-de-contrôle-d’attitude-d’un-nanosatellite)
 
 ---
 
@@ -118,7 +121,7 @@ L’objectif du groupe sera de finir la définition de tous les instruments de l
 
 ---
 
-#### X-Lune :
+#### X-Lune
 
 Dans le cadre de la compétition Google Lunar X Prize, véritable course à l'espace à financement privé, de nombreux finalistes de la compétition se proposent d'envoyer d'autres projets de petite envergure en plus de leur propre mission. Le CNES a contacté la société Astrobotic, favori Américain, pour l'envoi d'un projet étudiant sur la Lune.
 	
@@ -260,7 +263,7 @@ Concours Mars City Design
 
 ---
 
-#### Système de stabilisation de pression dans un habitat spatial – Mars City Design 
+#### Système de stabilisation de pression dans un habitat spatial
 
 Le groupe a pour but de développer un mécanisme de gestion des chutes de pression dans les habitats, et de créer et distribuer l’oxygène au sein des différents lieux de vie.
 
