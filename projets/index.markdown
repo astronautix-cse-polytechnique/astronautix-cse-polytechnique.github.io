@@ -310,7 +310,7 @@ Thalès
 
 ---
 
-#### Système de contrôle attitude d’un nanosatellite
+#### Système de contrôle attitude pour nanosatellite
 
 Des étudiants de l'Université Pierre et Marie Curie développent un nano-satellite et partagent la réalisation du système de contrôle d'attitude avec des étudiants de Polytechnique.
 Ce nanosatellite, dans le cadre de la mission METEOR, vise à étudier le spectre ultraviolet, et donc la composition chimique des météroïdes, et de déterminer leurs trajectoires.
