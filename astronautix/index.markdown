@@ -44,8 +44,3 @@ Le binet dispose de petits télescopes pour observer le ciel étoilé. Quand le 
 
 
 Le binet prévoit d'organiser pour l'année des visites de lieux liés au spatial, ces visites seront annoncées sur la page d'accueil du site.
-
-
-
-
-[![AstronautiX](http://xspacecenter.files.wordpress.com/2013/03/astronautix.png)](http://xspacecenter.files.wordpress.com/2013/03/astronautix.png)
