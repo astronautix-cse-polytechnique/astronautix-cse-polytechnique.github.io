@@ -15,8 +15,12 @@ Astronautix propose aux élèves de l'Ecole Polytechnique des projets spatiaux e
 Vous trouverez ci-dessous une description des projets en cours de développement :
 
 Menu :
-[X-CubeSat](#X-CubeSat)
-[X-CubeSat2](#X-CubeSat2)
+-[X-CubeSat](#X-CubeSat)
+-[X-CubeSat2](#X-CubeSat2)
+-[X-Lune](#X-Lune)
+-[Drone Martien](#Drone)
+
+
 
 #### X-CubeSat
 
@@ -42,7 +46,9 @@ Le travail actuel du PSC est de développer la station au sol pour la communicat
 ##### Budget : 
 Estimé à 250 000 euros, financés par le CNES et l'École polytechnique
 
-#### X-CubeSat II
+
+
+#### X-CubeSat2
 
 [![](/images/XCII6.png)](/images/XCII6.png)
 
@@ -64,9 +70,9 @@ LATMOS
 estimé à 1 million d’euros, financé à 50% par le CNES dans la limite de 500 000 euros.
 
 
+
+
 #### X-CubeSat II - Plateforme
-
-
 
 La modélisation du nano-satellite ayant déjà été réalisée (choix d’une partie des composants et de la structure, bilans approchés de masse et de puissance, orbitographie, …), il s'agira pour notre équipe plateforme de réaliser la validation technique du nano-satellite. Des études complètes sur les composants, leur compatibilité, sur le module de contrôle d’altitude et sur l’orbitographie viendront compléter le travail déjà réalisé, dans le but de valider la fin de la phase 0, première phase de notre projet.
 
@@ -83,15 +89,20 @@ Par la suite, des études thermiques, mécaniques et des simulations numériques
 -	Solène Laurent
 -	Léo-Paul Tran
 
+
+
 #### X-CubeSat II – Charge Utile 
 
 Le groupe X-CubeSat II Charge Utile est chargé de la gestion de l’unité supérieure, la charge utile, c’est-à-dire la partie permettant au nano-satellite d’accomplir sa mission scientifique.
 
 Le satellite sera muni de quatre instruments :  
--	Un radiomètre solaire et un photomètre ultraviolet pour l’observation des radiations solaires et la mesure de l’irradiance solaire totale (TSI) et de sa variabilité plus précise dans l’ultraviolet ; 
--	Deux radiomètres terrestres chargés de mesurer le bilan radiatif de la Terre, se focalisant sur l’infrarouge et l’ultraviolet ;  
--	Une caméra optique.
+-Un radiomètre solaire et un photomètre ultraviolet pour l’observation des radiations solaires et la mesure de l’irradiance solaire totale (TSI) et de sa variabilité plus précise dans l’ultraviolet ; 
+-Deux radiomètres terrestres chargés de mesurer le bilan radiatif de la Terre, se focalisant sur l’infrarouge et l’ultraviolet ;  
+-Une caméra optique.
+
 L’objectif du groupe sera de finir la définition de tous les instruments de la charge utile et de commencer les bilans énergétique et thermique, ainsi que de participer à la validation de la fin de phase 0 du projet dans son ensemble.
+
+
 ##### Membres :
 -	Nicolas Castel (chef de projet)
 -	Sébastien Gomé
@@ -101,11 +112,15 @@ L’objectif du groupe sera de finir la définition de tous les instruments de l
 -	Armand Lacombe
 -	Eduardo Alves Vitral
 
+
+
 #### X-Lune :
 
 Dans le cadre de la compétition Google Lunar X Prize, véritable course à l'espace à financement privé, de nombreux finalistes de la compétition se proposent d'envoyer d'autres projets de petite envergure en plus de leur propre mission. Le CNES a contacté la société Astrobotic, favori Américain, pour l'envoi d'un projet étudiant sur la Lune.
-	Il est convenu que le financement du projet se fasse sur des fonds privés sollicités en tant que sponsors ou en tant que partenaires.
-	L'objectif du groupe de PSC est de superviser la production d'un engin robotisé capable de se mouvoir sur la Lune, en mettant à profit l'expérience d'autres écoles / universités et du CNES, comme HEC, la Toulouse Business School, l’ICAM (Institut Catholique des Arts et Métiers) ou l’ENSIL (École nationale supérieure d’ingénieurs de Limoges). Ce robot, premier engin français sur la Lune, devra assurer des missions de communications à destination des sponsors pour justifier son financement.
+	
+Il est convenu que le financement du projet se fasse sur des fonds privés sollicités en tant que sponsors ou en tant que partenaires.
+	
+L'objectif du groupe de PSC est de superviser la production d'un engin robotisé capable de se mouvoir sur la Lune, en mettant à profit l'expérience d'autres écoles / universités et du CNES, comme HEC, la Toulouse Business School, l’ICAM (Institut Catholique des Arts et Métiers) ou l’ENSIL (École nationale supérieure d’ingénieurs de Limoges). Ce robot, premier engin français sur la Lune, devra assurer des missions de communications à destination des sponsors pour justifier son financement.
 
 [![](/images/XLune.png)](/images/XLune.png)
 
@@ -126,10 +141,14 @@ CNES
 ##### Budget : 
 Estimé entre 1 et 3 millions d'euros, financements privés à trouver avec la garantie du CNES.
 
+
+
+
 #### Drone Martien
 
 Le CNES développe depuis plusieurs années un prototype de drone d'exploration en environnement martien en partenariat avec des établissements d'études supérieures. L'objectif d'un tel drone serait de servir d'éclaireur à un rover martien tel que Curiosity afin d'en optimiser les déplacements. En effet, en quatre ans, Curiosity n’a parcouru qu’une quinzaine de kilomètres sur Mars, car toute trajectoire doit être mûrement réfléchie afin d’éviter tout risque. Un drone éclaireur minimiserait ces risques et rendrait l’exploration plus sûre pour le rover.
-	La mission confiée au groupe polytechnicien est la mise au point du système de navigation du drone martien dans le but de cartographier l’espace martien et de choisir les routes empruntées par le rover. Les parties énergétique et aérodynamique du drone ont déjà été traitées par d'autres écoles.
+	
+La mission confiée au groupe polytechnicien est la mise au point du système de navigation du drone martien dans le but de cartographier l’espace martien et de choisir les routes empruntées par le rover. Les parties énergétique et aérodynamique du drone ont déjà été traitées par d'autres écoles.
 
 ##### Membres :
 -	Pierre-Alexandre Masset (chef de projet)
@@ -144,6 +163,9 @@ Le CNES développe depuis plusieurs années un prototype de drone d'exploration 
 
 ##### Partenariat : 
 CNES
+
+
+
 
 #### Combinaison d’exploration martienne
 
@@ -165,6 +187,9 @@ La combinaison martienne devra non seulement résister aux conditions de vie mar
 ##### Budget : 
 10 000 euros
 
+
+
+
 #### MAV : Mars Ascent Vehicle
 
 Ce projet s’attaque à l’une des problématiques majeures de l’exploration de Mars par des astronautes : amener un véhicule sur Mars capable de redécoller avec un équipage. Ce véhicule modulaire doit permettre de décoller de Mars et de mettre en orbite un équipage, résister à une rentrée atmosphérique à partir de l’orbite de Mars (avec des protections thermiques), et être compatible avec des lanceurs en développement.
@@ -184,6 +209,9 @@ Xavier Roser
 ##### Partenariat : 
 Thalès
 
+
+
+
 #### Le Tour de Mars en 80 Jours - Mars City Design
 
 Ce groupe a un projet hors normes : designer et modéliser un ballon qui permettrait les déplacements sur Mars !
@@ -200,11 +228,12 @@ Ce groupe a un projet hors normes : designer et modéliser un ballon qui permet
 ##### Tuteur :
 Heidmann Richard, Association Planète Mars, heidmann.r@orange.fr, 02 32 51 04 89
 
+
+
+
 #### Autarcie energétique d’une colonie martienne – Mars City Design
 
-
 Ce projet pense l’approvisionnement énergétique durable d’une colonie sur Mars, grâce à un dispositif permettant d’absorber le rayonnement solaire dans les domaines UV et infrarouge
-
 
 ##### Membres :
 -	Ewen Dantec (chef de projet)
@@ -218,10 +247,14 @@ Ce projet pense l’approvisionnement énergétique durable d’une colonie sur 
 ##### Tuteur :
 Père Roca
 
-##### Cadre : Concours Mars City Design
+##### Cadre : 
+Concours Mars City Design
 
 ##### Budget : 
 1000 euros
+
+
+
 
 #### Système de stabilisation de pression dans un habitat spatial – Mars City Design 
 
@@ -239,10 +272,14 @@ Le groupe a pour but de développer un mécanisme de gestion des chutes de press
 Christophe Lasseur, Eurppean Spatial Agency, christophe.lasseur@esa.int
 Ossikovski, Razvigor, PICM razvigor.ossikovski@polytechnique.edu ,  01 77 57 43 67
 
-##### Cadre : Concours Mars City Design
+##### Cadre : 
+Concours Mars City Design
 
 ##### Budget : 
 1000 euros
+
+
+
 
 #### Nano satellite d’exploration lunaire à propulsion électrique
 
@@ -259,7 +296,11 @@ Le passage obligé par la ceinture de Van Allen et ses radiations nocives, la ma
 ##### Tuteur :
 Xavier Roser
 
-##### Partenariat : Thalès
+##### Partenariat : 
+Thalès
+
+
+
 
 #### ADCS : Système de contrôle d’attitude d’un nanosatellite
 
@@ -277,7 +318,8 @@ La mission du PSC est de réaliser d'une part le système de contrôle d'attitud
 ##### Tuteur :
 Guilhem Gallot
 
-##### Partenariat : UMPC
+##### Partenariat : 
+UMPC
 
 
 Pour proposer un projet: [mailto:agathe.boutaud@polytechnique.edu]( agathe.boutaud@polytechnique.edu)
