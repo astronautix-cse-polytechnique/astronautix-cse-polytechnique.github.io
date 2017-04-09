@@ -15,12 +15,17 @@ Astronautix propose aux élèves de l'Ecole Polytechnique des projets spatiaux e
 Vous trouverez ci-dessous une description des projets en cours de développement :
 
 Menu :
+
 -[X-CubeSat](#x-cubesat)
--[X-CubeSat2](#x-cubesat2)
--[X-Lune](#X-Lune)
--[Drone Martien](#Drone)
+-[X-CubeSat II](#x-cubesat-ii)
+-[X-Lune](#x-lune)
+-[Drone Martien](#drone-martien)
+-[Combinaison d’exploration martienne](#combinaison-d’exploration-martienne)
+-[MAV : Mars Ascent Vehicle](#mav-:-mars-ascent-vehicle)
+-[Le Tour de Mars en 80 Jours - Mars City Design](#le-tour-de-mars-en-80-jours)
+-[Autarcie energétique d’une colonie martienne](#autarcie-energétique-d’une-colonie-martienne)
 
-
+---
 
 #### X-CubeSat
 
@@ -46,9 +51,9 @@ Le travail actuel du PSC est de développer la station au sol pour la communicat
 ##### Budget : 
 Estimé à 250 000 euros, financés par le CNES et l'École polytechnique
 
+---
 
-
-#### X-CubeSat2
+#### X-CubeSat II
 
 [![](/images/XCII6.png)](/images/XCII6.png)
 
@@ -69,8 +74,7 @@ LATMOS
 ##### Budget : 
 estimé à 1 million d’euros, financé à 50% par le CNES dans la limite de 500 000 euros.
 
-
-
+---
 
 #### X-CubeSat II - Plateforme
 
@@ -89,7 +93,7 @@ Par la suite, des études thermiques, mécaniques et des simulations numériques
 -	Solène Laurent
 -	Léo-Paul Tran
 
-
+---
 
 #### X-CubeSat II – Charge Utile 
 
@@ -112,7 +116,7 @@ L’objectif du groupe sera de finir la définition de tous les instruments de l
 -	Armand Lacombe
 -	Eduardo Alves Vitral
 
-
+---
 
 #### X-Lune :
 
@@ -141,8 +145,7 @@ CNES
 ##### Budget : 
 Estimé entre 1 et 3 millions d'euros, financements privés à trouver avec la garantie du CNES.
 
-
-
+---
 
 #### Drone Martien
 
@@ -164,8 +167,7 @@ La mission confiée au groupe polytechnicien est la mise au point du système de
 ##### Partenariat : 
 CNES
 
-
-
+---
 
 #### Combinaison d’exploration martienne
 
@@ -187,7 +189,7 @@ La combinaison martienne devra non seulement résister aux conditions de vie mar
 ##### Budget : 
 10 000 euros
 
-
+---
 
 
 #### MAV : Mars Ascent Vehicle
@@ -209,10 +211,10 @@ Xavier Roser
 ##### Partenariat : 
 Thalès
 
+---
 
 
-
-#### Le Tour de Mars en 80 Jours - Mars City Design
+#### Le Tour de Mars en 80 Jours
 
 Ce groupe a un projet hors normes : designer et modéliser un ballon qui permettrait les déplacements sur Mars !
 
@@ -226,12 +228,14 @@ Ce groupe a un projet hors normes : designer et modéliser un ballon qui permet
 -	Selma El Bez
 
 ##### Tuteur :
-Heidmann Richard, Association Planète Mars, heidmann.r@orange.fr, 02 32 51 04 89
+Heidmann Richard, Association Planète Mars
 
+##### Cadre : 
+Concours Mars City Design
 
+---
 
-
-#### Autarcie energétique d’une colonie martienne – Mars City Design
+#### Autarcie energétique d’une colonie martienne
 
 Ce projet pense l’approvisionnement énergétique durable d’une colonie sur Mars, grâce à un dispositif permettant d’absorber le rayonnement solaire dans les domaines UV et infrarouge
 
@@ -254,7 +258,7 @@ Concours Mars City Design
 1000 euros
 
 
-
+---
 
 #### Système de stabilisation de pression dans un habitat spatial – Mars City Design 
 
@@ -279,7 +283,7 @@ Concours Mars City Design
 1000 euros
 
 
-
+---
 
 #### Nano satellite d’exploration lunaire à propulsion électrique
 
@@ -293,6 +297,7 @@ Le passage obligé par la ceinture de Van Allen et ses radiations nocives, la ma
 -	Marken Foo
 -	Pierre-Elie Bélouard
 -	Amaury Ducoulombier
+
 ##### Tuteur :
 Xavier Roser
 
@@ -300,7 +305,7 @@ Xavier Roser
 Thalès
 
 
-
+---
 
 #### ADCS : Système de contrôle d’attitude d’un nanosatellite
 
