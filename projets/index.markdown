@@ -10,11 +10,14 @@ tags: Astronautix, Polytechnique, binet, spatial, centre spatial étudiant, étu
 wordpress_id: 519
 ---
 
-Astronautix propose aux élèves de l'Ecole Polytechnique des projets spatiaux en partenariat avec des laboratoires et le CNES.
+Astronautix, le Centre Spatial Étudiant de l’École polytechnique (CSE), s’occupe du développement et du suivi des projets spatiaux auprès des élèves de l’École polytechnique. Jusqu’à cette année le CSE était très lié aux projets X-CubeSat inscrits dans l’appel d’offre QB50 du VKI et à SERB, CubeSat développé en partenariat avec le LATMOS. Maintenant que le X-CubeSat a été livré et va être mis en orbite en mars de cette année, nous avons voulu proposer de nouveaux projets dans des domaines plus diversifiés.
 
-Vous trouverez ci-dessous une description des projets en cours de développement :
+Cette année, le CSE regroupe un ensemble de 12 PSC spatiaux inscrits dans les départements Mécanique, Informatique, MIE et Physique, soit un total de 77 élèves (15%) de la promotion 2015. De plus, nouveautés de cette année, le CSE a proposé à certains projets de participer au concours californien Mars City Design, a participé à l’International Astronautical Congress de Guadalajara, et encourage les démarches pour inscrire l’École polytechnique à l’International Astronautical Federation.
 
-Menu :
+Notre ambition est de proposer des formations adaptées aux groupes de PSC spatiaux, de faire le lien entre les projets traitant de problématiques proches et d’assurer la continuité des projets entre les promotions. À cela s’ajoutent des activités de promotion du secteur spatial auprès des élèves, de la direction de l’École et des acteurs du spatial.
+
+
+Liste des Projets :
 
 -	[X-CubeSat](#x-cubesat)
 -	[X-CubeSat II](#x-cubesat-ii)
@@ -129,14 +132,13 @@ Il est convenu que le financement du projet se fasse sur des fonds privés solli
 	
 L'objectif du groupe de PSC est de superviser la production d'un engin robotisé capable de se mouvoir sur la Lune, en mettant à profit l'expérience d'autres écoles / universités et du CNES, comme HEC, la Toulouse Business School, l’ICAM (Institut Catholique des Arts et Métiers) ou l’ENSIL (École nationale supérieure d’ingénieurs de Limoges). Ce robot, premier engin français sur la Lune, devra assurer des missions de communications à destination des sponsors pour justifier son financement.
 
-[![](/images/XLune.png)](/images/XLune.png)
-
 ##### Membres :
 -	Julien Piet (chef de projet)
 -	Kévin Presa
 -	Yassir Akram
 -	Louis Reboul
 -	Thomas Sentis
+-	Arnaud Stiegler
 
 ##### Tuteurs :
 -	Hubert Diez, CNES, Hubert.Diez@cnes.fr
