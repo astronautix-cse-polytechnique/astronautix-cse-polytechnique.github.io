@@ -15,8 +15,8 @@ Astronautix propose aux élèves de l'Ecole Polytechnique des projets spatiaux e
 Vous trouverez ci-dessous une description des projets en cours de développement :
 
 Menu :
--[X-CubeSat](#X-CubeSat)
--[X-CubeSat2](#X-CubeSat2)
+-[X-CubeSat](#x-cubesat)
+-[X-CubeSat2](#x-cubesat2)
 -[X-Lune](#X-Lune)
 -[Drone Martien](#Drone)
 
