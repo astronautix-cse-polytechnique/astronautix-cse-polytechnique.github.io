@@ -20,13 +20,13 @@ Menu :
 -	[X-CubeSat II](#x-cubesat-ii)
 -	[X-Lune](#x-lune)
 -	[Drone Martien](#drone-martien)
--	[Combinaison exploration martienne](#combinaison-d’exploration-martienne)
+-	[Combinaison exploration martienne](#combinaison-exploration-martienne)
 -	[Mars Ascent Vehicle](#mars-ascent-vehicle)
 -	[Le Tour de Mars en 80 Jours](#le-tour-de-mars-en-80-jours)
 -	[Autarcie energétique pour une colonie martienne](#autarcie-energétique-pour-une-colonie-martienne)
 -	[Système de stabilisation de pression dans un habitat spatial](#système-de-stabilisation-de-pression-dans-un-habitat-spatial)
 -	[Nano satellite pour exploration de la lune à propulsion électrique](#nano-satellite-pour-exploration-de-la-lune-à-propulsion-électrique)
--	[Système de contrôle d’attitude d’un nanosatellite](#système-de-contrôle-d’attitude-d’un-nanosatellite)
+-	[Système de contrôle attitude pour nanosatellite](#système-de-contrôle-attitude-pour-nanosatellite)
 
 ---
 
@@ -310,7 +310,7 @@ Thalès
 
 ---
 
-#### Système de contrôle d’attitude d’un nanosatellite
+#### Système de contrôle attitude d’un nanosatellite
 
 Des étudiants de l'Université Pierre et Marie Curie développent un nano-satellite et partagent la réalisation du système de contrôle d'attitude avec des étudiants de Polytechnique.
 Ce nanosatellite, dans le cadre de la mission METEOR, vise à étudier le spectre ultraviolet, et donc la composition chimique des météroïdes, et de déterminer leurs trajectoires.
