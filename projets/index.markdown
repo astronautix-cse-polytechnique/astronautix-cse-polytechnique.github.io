@@ -279,7 +279,6 @@ Le groupe a pour but de développer un mécanisme de gestion des chutes de press
 
 ##### Tuteur :
 Christophe Lasseur, Eurppean Spatial Agency, christophe.lasseur@esa.int
-Ossikovski, Razvigor, PICM razvigor.ossikovski@polytechnique.edu ,  01 77 57 43 67
 
 ##### Cadre : 
 Concours Mars City Design
