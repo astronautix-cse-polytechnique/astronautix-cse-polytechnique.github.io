@@ -18,7 +18,7 @@ Menu :
 [X-CubeSat](#X-CubeSat)
 [X-CubeSat2](#X-CubeSat2)
 
-## X-CubeSat
+#### X-CubeSat
 
 Le projet X-Cubesat est un PSC initié par la promotion 2010 en réponse à l'appel d'offre QB50 du Von Karman Institute. QB50 est une mission visant à déployer une constellation de nano-satellites. Ceux-ci permettront non seulement de mener une caractérisation chimique de la très haute atmosphère, mais aussi de servir de démonstrateur technologique, en utilisant des éléments qui n’ont jamais été testés dans l’espace.
 
@@ -30,17 +30,19 @@ Le travail actuel du PSC est de développer la station au sol pour la communicat
 
 [![](/images/X-cubesat.png)](/images/X-cubesat.png)
 
-# Membres :
+##### Membres :
 
 -	Yann Balland
 -	Percy-Augusto Guerra-Rios
 -	Cristobal Cortinez
 
-# Tuteur :
+##### Tuteur :
 -	Gérard Auvray
 
-# Budget : Estimé à 250 000 euros, financés par le CNES et l'École polytechnique
-## X-CubeSat II
+##### Budget : 
+Estimé à 250 000 euros, financés par le CNES et l'École polytechnique
+
+#### X-CubeSat II
 
 [![](/images/XCII6.png)](/images/XCII6.png)
 
@@ -52,17 +54,17 @@ L’enjeu de cette mission sera de comprendre l’influence de l’éclairement 
 
 A cette fin, deux groupes d’élèves travaillent sur le projet, un groupe dédié à la charge utile et un groupe travaillant sur la plateforme du nano-satellite.
 
-# Tuteur :
+##### Tuteur :
 Mustapha MEFTAH, LATMOS-CNRS
 
-# Partenariat : 
+##### Partenariat : 
 LATMOS
 
-# Budget : 
+##### Budget : 
 estimé à 1 million d’euros, financé à 50% par le CNES dans la limite de 500 000 euros.
 
 
-## X-CubeSat II - Plateforme
+#### X-CubeSat II - Plateforme
 
 
 
@@ -72,7 +74,7 @@ Par la suite, des études thermiques, mécaniques et des simulations numériques
 
 [![](/images/XCSP.png)](/images/XCSP.png)
 
-# Membres :
+##### Membres :
 -	Adrien Bressy (chef de projet)
 -	Agathe Boutaud
 -	Raphaël Carpine
@@ -81,7 +83,7 @@ Par la suite, des études thermiques, mécaniques et des simulations numériques
 -	Solène Laurent
 -	Léo-Paul Tran
 
-## X-CubeSat II – Charge Utile 
+#### X-CubeSat II – Charge Utile 
 
 Le groupe X-CubeSat II Charge Utile est chargé de la gestion de l’unité supérieure, la charge utile, c’est-à-dire la partie permettant au nano-satellite d’accomplir sa mission scientifique.
 
@@ -90,7 +92,7 @@ Le satellite sera muni de quatre instruments :
 -	Deux radiomètres terrestres chargés de mesurer le bilan radiatif de la Terre, se focalisant sur l’infrarouge et l’ultraviolet ;  
 -	Une caméra optique.
 L’objectif du groupe sera de finir la définition de tous les instruments de la charge utile et de commencer les bilans énergétique et thermique, ainsi que de participer à la validation de la fin de phase 0 du projet dans son ensemble.
-# Membres :
+##### Membres :
 -	Nicolas Castel (chef de projet)
 -	Sébastien Gomé
 -	Paul Lilin
@@ -99,7 +101,7 @@ L’objectif du groupe sera de finir la définition de tous les instruments de l
 -	Armand Lacombe
 -	Eduardo Alves Vitral
 
-# X-Lune :
+#### X-Lune :
 
 Dans le cadre de la compétition Google Lunar X Prize, véritable course à l'espace à financement privé, de nombreux finalistes de la compétition se proposent d'envoyer d'autres projets de petite envergure en plus de leur propre mission. Le CNES a contacté la société Astrobotic, favori Américain, pour l'envoi d'un projet étudiant sur la Lune.
 	Il est convenu que le financement du projet se fasse sur des fonds privés sollicités en tant que sponsors ou en tant que partenaires.
@@ -107,28 +109,29 @@ Dans le cadre de la compétition Google Lunar X Prize, véritable course à l'es
 
 [![](/images/XLune.png)](/images/XLune.png)
 
-# Membres :
+##### Membres :
 -	Julien Piet (chef de projet)
 -	Kévin Presa
 -	Yassir Akram
 -	Louis Reboul
 -	Thomas Sentis
 
-# Tuteurs :
+##### Tuteurs :
 -	Hubert Diez, CNES, Hubert.Diez@cnes.fr
 -	Gilles Garel, tuteur présent à Polytechnique
 
-# Partenariat : 
+##### Partenariat : 
 CNES
 
-# Budget : Estimé entre 1 et 3 millions d'euros, financements privés à trouver avec la garantie du CNES.
+##### Budget : 
+Estimé entre 1 et 3 millions d'euros, financements privés à trouver avec la garantie du CNES.
 
-## Drone Martien
+#### Drone Martien
 
 Le CNES développe depuis plusieurs années un prototype de drone d'exploration en environnement martien en partenariat avec des établissements d'études supérieures. L'objectif d'un tel drone serait de servir d'éclaireur à un rover martien tel que Curiosity afin d'en optimiser les déplacements. En effet, en quatre ans, Curiosity n’a parcouru qu’une quinzaine de kilomètres sur Mars, car toute trajectoire doit être mûrement réfléchie afin d’éviter tout risque. Un drone éclaireur minimiserait ces risques et rendrait l’exploration plus sûre pour le rover.
 	La mission confiée au groupe polytechnicien est la mise au point du système de navigation du drone martien dans le but de cartographier l’espace martien et de choisir les routes empruntées par le rover. Les parties énergétique et aérodynamique du drone ont déjà été traitées par d'autres écoles.
 
-# Membres :
+##### Membres :
 -	Pierre-Alexandre Masset (chef de projet)
 -	Pierre Pelletier
 -	Hossam Basudan
@@ -136,18 +139,18 @@ Le CNES développe depuis plusieurs années un prototype de drone d'exploration 
 -	Thomas Wang
 -	Lisa Bedin
 
-# Tuteur :
+##### Tuteur :
 -	Hubert Diez, CNES, Hubert.Diez@cnes.fr
 
-# Partenariat : 
+##### Partenariat : 
 CNES
 
-## Combinaison d’exploration martienne
+#### Combinaison d’exploration martienne
 
 Les conditions extrêmes de la surface martienne imposent le port de combinaisons extrêmement fiables et résistantes, qui font appel à des technologies de pointe. L'idée de ce PSC est de construire puis de mettre en oeuvre lors d'une mission simulée un démonstrateur technologique simple d'un tel dispositif de survie.
 La combinaison martienne devra non seulement résister aux conditions de vie martiennes, mais aussi être réalisable sur place. C’est pourquoi l’une des exigences du PSC est que les parties rigides de la combinaison soient imprimables via une imprimante 3D.
 
-# Membres :
+##### Membres :
 -	Nogue Nogha Cedric
 -	Paris Thibault (fondateur)
 -	Colin Antoine
@@ -156,17 +159,18 @@ La combinaison martienne devra non seulement résister aux conditions de vie mar
 -	Hammond Alfred
 -	Joyeux Benjamin
 
-# Tuteur :
+##### Tuteur :
 -	Alain Souchier
 
-# Budget : 10 000 euros
+##### Budget : 
+10 000 euros
 
-## MAV : Mars Ascent Vehicle
+#### MAV : Mars Ascent Vehicle
 
 Ce projet s’attaque à l’une des problématiques majeures de l’exploration de Mars par des astronautes : amener un véhicule sur Mars capable de redécoller avec un équipage. Ce véhicule modulaire doit permettre de décoller de Mars et de mettre en orbite un équipage, résister à une rentrée atmosphérique à partir de l’orbite de Mars (avec des protections thermiques), et être compatible avec des lanceurs en développement.
 	Il s’agit donc pour les membres du groupe d’optimiser les trajectoires du module, mais aussi de commencer à le dimensionner et à le modéliser.
 
-# Membres :
+##### Membres :
 -	Marwane Taoufiki (chef de projet)
 -	Antoine Pallois
 -	Axel De Lavaissiere de LAvergne
@@ -174,17 +178,17 @@ Ce projet s’attaque à l’une des problématiques majeures de l’exploration
 -	Theo Dessertaine
 -	Cécile Tran Kiem
 
-# Tuteur : 
+##### Tuteur : 
 Xavier Roser
 
-# Partenariat : 
+##### Partenariat : 
 Thalès
 
-## Le Tour de Mars en 80 Jours - Mars City Design
+#### Le Tour de Mars en 80 Jours - Mars City Design
 
 Ce groupe a un projet hors normes : designer et modéliser un ballon qui permettrait les déplacements sur Mars !
 
-# Membres :
+##### Membres :
 -	Zoé Ghiron (Chef de projet)
 -	Yves Sibony
 -	Laure Heidmann
@@ -193,16 +197,16 @@ Ce groupe a un projet hors normes : designer et modéliser un ballon qui permet
 -	Rayan Ziane
 -	Selma El Bez
 
-# Tuteur :
+##### Tuteur :
 Heidmann Richard, Association Planète Mars, heidmann.r@orange.fr, 02 32 51 04 89
 
-## Autarcie energétique d’une colonie martienne – Mars City Design
+#### Autarcie energétique d’une colonie martienne – Mars City Design
 
 
 Ce projet pense l’approvisionnement énergétique durable d’une colonie sur Mars, grâce à un dispositif permettant d’absorber le rayonnement solaire dans les domaines UV et infrarouge
 
 
-# Membres :
+##### Membres :
 -	Ewen Dantec (chef de projet)
 -	Arsène Pierrot
 -	Hadrien Cornier
@@ -211,18 +215,19 @@ Ce projet pense l’approvisionnement énergétique durable d’une colonie sur 
 -	Jiadong Wang
 -	Solheil Salimi (Master)
 
-# Tuteur :
+##### Tuteur :
 Père Roca
 
-# Cadre : Concours Mars City Design
+##### Cadre : Concours Mars City Design
 
-# Budget : 1000 euros
+##### Budget : 
+1000 euros
 
-## Système de stabilisation de pression dans un habitat spatial – Mars City Design 
+#### Système de stabilisation de pression dans un habitat spatial – Mars City Design 
 
 Le groupe a pour but de développer un mécanisme de gestion des chutes de pression dans les habitats, et de créer et distribuer l’oxygène au sein des différents lieux de vie.
 
-# Membres :
+##### Membres :
 -	Tarek Ben Slimane (chef de projet)
 -	Samuel Colin
 -	Ines Potier
@@ -230,48 +235,49 @@ Le groupe a pour but de développer un mécanisme de gestion des chutes de press
 -	Sebastien Roebbner
 -	Etienne Bennequin
 
-# Tuteur :
+##### Tuteur :
 Christophe Lasseur, Eurppean Spatial Agency, christophe.lasseur@esa.int
 Ossikovski, Razvigor, PICM razvigor.ossikovski@polytechnique.edu ,  01 77 57 43 67
 
-# Cadre : Concours Mars City Design
+##### Cadre : Concours Mars City Design
 
-# Budget : 1000 euros
+##### Budget : 
+1000 euros
 
-## Nano satellite d’exploration lunaire à propulsion électrique
+#### Nano satellite d’exploration lunaire à propulsion électrique
 
 Ce projet, en partenariat avec Thales Alenia Space, vise à mener une étude préliminaire au lancement d’un nanosatellite à propulsion électrique, qui amènerait une charge utile de plusieurs kilos en orbite basse lunaire.
 Le passage obligé par la ceinture de Van Allen et ses radiations nocives, la masse relativement élevée de la charge utile pour ce type de mission et la faible poussée des systèmes de propulsion électrique sont autant de défis ambitieux que nous avons à relever pour mener à bien notre projet, qui nous conduit à choisir une stratégie cohérente de poussée et à réaliser un prédimensionnement adapté du nanosatellite. Une vision globale du projet, l’utilisation adéquate d’outils numériques performants, une gestion ingénieuse des nombreux paramètres afin d’optimiser le coût de la mission et le temps de trajet sont les points-clefs de la conception de ce qui sera, nous le souhaitons, le premier nanosatellite à propulsion entièrement électrique à atteindre l’orbite basse lunaire.
 
-# Membres :
+##### Membres :
 -	Mouad Boudina (chef de projet)
 -	Guilio Gargantini
 -	Gabriel Galvão
 -	Marken Foo
 -	Pierre-Elie Bélouard
 -	Amaury Ducoulombier
-# Tuteur :
+##### Tuteur :
 Xavier Roser
 
-# Partenariat : Thalès
+##### Partenariat : Thalès
 
-## ADCS : Système de contrôle d’attitude d’un nanosatellite
+#### ADCS : Système de contrôle d’attitude d’un nanosatellite
 
 Des étudiants de l'Université Pierre et Marie Curie développent un nano-satellite et partagent la réalisation du système de contrôle d'attitude avec des étudiants de Polytechnique.
 Ce nanosatellite, dans le cadre de la mission METEOR, vise à étudier le spectre ultraviolet, et donc la composition chimique des météroïdes, et de déterminer leurs trajectoires.
 La mission du PSC est de réaliser d'une part le système de contrôle d'attitude à l'aide de l'outil Simulink, et de réaliser d'autre part une plateforme de test pour le système de contrôle d'attitude.
 
-# Membres :
+##### Membres :
 -	Mathias Pont (chef de projet)
 -	Jean Sauvignon
 -	Achille Thin
 -	Alexis Rougé
 -	Sophie Degabriel
 
-# Tuteur :
+##### Tuteur :
 Guilhem Gallot
 
-# Partenariat : UMPC
+##### Partenariat : UMPC
 
 
 Pour proposer un projet: [mailto:agathe.boutaud@polytechnique.edu]( agathe.boutaud@polytechnique.edu)
