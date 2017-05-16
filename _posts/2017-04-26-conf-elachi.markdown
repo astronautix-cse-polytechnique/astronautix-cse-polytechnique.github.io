@@ -5,7 +5,7 @@ date: 2017-04-26 20:00:00+02:00
 layout: article
 slug: conf-elachi
 title: Conference du professeur Charles Elachi
-excerpt: THE GOLDEN AGE OF SPACE EXPLORATION: FOLLOW YOUR CURIOSITY 
+excerpt: THE GOLDEN AGE OF SPACE EXPLORATION: FOLLOW YOUR CURIOSITY
 category: event
 tags:
 ---
@@ -15,7 +15,7 @@ AstronautiX (le centre spatial étudiant de l'École polytechnique), le départ
 En Poincaré, l'ancien directeur du NASA Jet Propulsion Laboratory, aussi ancien vice-président de Caltech, le Prof. Charles Elachi, présentera :  
 THE GOLDEN AGE OF SPACE EXPLORATION: FOLLOW YOUR CURIOSITY   
 
-[photo1]: /images/event1.jpg "Les X dans l'espace"
+![Les X dans l espace](/images/event1.jpg "Les X dans l'espace")
 
 L’après-midi, nos membres lui présenteront les projets spatiaux étudiants de l’association.  
 
