@@ -21,4 +21,4 @@ Ce soir tu pourras échanger avec les X2015 qui ont réalisé les projets recond
 Si tu as des questions, n'hésite pas à envoyer un mail à adrien.bressy@polytechnique.edu (Président) et agathe.boutaud@polytechnique.edu (Vice-Présidente responsable des projets).
 
 
-[photo1]: /images/event4.jpg "SpaceWeek"
+![SpaceWeek](/images/event4.jpg "SpaceWeek")
