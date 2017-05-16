@@ -4,8 +4,8 @@ comments: false
 date: 2017-05-07 20:00:00+02:00
 layout: article
 slug: conf-duvaux-bechon
-title: Conférence Isabelle Duvaux-Béchon
-excerpt: L'ESA : quelles réponses pour les grands défis sociétaux ?
+title: Conference Isabelle Duvaux-Béchon
+excerpt: L'ESA : quelles réponses pour les grands defis societaux ?
 category: event
 tags:
 ---
