@@ -20,4 +20,4 @@ La mise en orbite de X-CubeSat marque une étape importante dans le développeme
 X-CubeSat fait partie de la mission QB50 du VKI (financé par #FP7) et du projet JANUS du [CNES](https://www.facebook.com/CNESFrance/).
 AstronautiX est le centre spatial étudiant de l’École polytechnique. L’association étudiante coordonne le développement et assure le suivi d’une dizaine de projets spatiaux étudiants réalisés par plus de 70 élèves ingénieurs polytechniciens.
 
-<video src="video_1.mp4" controls width="600"></video>
+<video src="/images/video_1.mp4" controls width="600"></video>
