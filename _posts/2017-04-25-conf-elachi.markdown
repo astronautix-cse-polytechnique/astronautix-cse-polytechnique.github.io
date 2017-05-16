@@ -1,11 +1,11 @@
 ---
 author: Julien Piet
 comments: false
-date: 2017-04-26 20:00:00+02:00
+date: 2017-04-25 20:00:00+02:00
 layout: article
 slug: conf-elachi
 title: Conference du professeur Charles Elachi
-excerpt: THE GOLDEN AGE OF SPACE EXPLORATION: FOLLOW YOUR CURIOSITY
+excerpt: The golden age of space exploration: follow your curiosity
 category: event
 tags:
 ---
