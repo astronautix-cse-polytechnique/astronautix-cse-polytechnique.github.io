@@ -19,4 +19,4 @@ Autant d’occasions d’avoir les yeux pleins d’étoiles et de représenter l
 On n’oublie pas pour autant le platal, avec la SpaceWeek, la fête de la science, les formations AstronautiX/CNES, … et enfin de nombreuses conférences : Elachi la semaine dernière, Isabelle Duvaux-Béchon mardi prochain ...  
 Bref, avant de construire un satellite ou un lanceur, viens découvrir nos autres activités ce soir 20h en Painlevé (couloir des nouveaux amphis) !
 
-[photo1]: /link/to/event2.jpg "It's not rocket science"
+[photo1]: /images/event2.jpg "It's not rocket science"
