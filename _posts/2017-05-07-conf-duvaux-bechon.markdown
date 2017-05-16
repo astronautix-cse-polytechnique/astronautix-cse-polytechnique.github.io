@@ -25,4 +25,4 @@ Viens rencontrer Isabelle Duvaux-Béchon, responsable du département des défis
 Elle mettra l'accent sur l'espace au service des grands défis terrestres, comment les programmes spatiaux (y compris la préparation de l'exploration humaine du système solaire) deviennent indispensables pour les êtres humains sur Terre.
 
 
-[photo1]: /images/event3.jpg "ESA"
+![ESA](/images/event3.jpg "ESA")
