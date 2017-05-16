@@ -4,7 +4,7 @@ comments: false
 date: 2017-04-26 20:00:00+02:00
 layout: article
 slug: conf-elachi
-title: Conférence du professeur Charles Elachi
+title: Conference du professeur Charles Elachi
 excerpt: THE GOLDEN AGE OF SPACE EXPLORATION: FOLLOW YOUR CURIOSITY 
 category: event
 tags:
