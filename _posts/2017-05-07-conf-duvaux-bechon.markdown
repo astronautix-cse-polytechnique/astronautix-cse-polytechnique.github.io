@@ -4,8 +4,8 @@ comments: false
 date: 2017-05-07 20:00:00+02:00
 layout: article
 slug: conf-duvaux-bechon
-title: Conference Isabelle Duvaux-Béchon
-excerpt: L'ESA : quelles réponses pour les grands defis societaux ?
+title: Conference Isabelle Duvaux-Bechon
+excerpt: Viens rencontrer Isabelle Duvaux-Béchon, responsable du département de la coordination des partenariats de l'ESA.
 category: event
 tags:
 ---
