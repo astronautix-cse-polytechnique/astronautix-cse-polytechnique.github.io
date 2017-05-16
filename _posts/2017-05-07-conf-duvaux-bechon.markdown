@@ -20,6 +20,9 @@ Pour y répondre, AstronautiX organise une conférence pour le premier événeme
  
 Viens rencontrer Isabelle Duvaux-Béchon, responsable du département des défis mondiaux et de la coordination des partenariats de l'ESA.
 
-« L'ESA : quelles réponses pour les grands défis sociétaux ? »
+« L'ESA : quelles réponses pour les grands défis sociétaux ? » 
 
-[photo1]: /link/to/event3.jpg "ESA"
+Elle mettra l'accent sur l'espace au service des grands défis terrestres, comment les programmes spatiaux (y compris la préparation de l'exploration humaine du système solaire) deviennent indispensables pour les êtres humains sur Terre.
+
+
+[photo1]: /images/event3.jpg "ESA"
